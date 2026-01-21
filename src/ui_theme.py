@@ -166,7 +166,7 @@ class UITheme:
             border-radius: 8px;
         }}
         
-        /* レスポンシブデザイン */
+        /* レスポンシブデザイン - モバイル対応 */
         @media (max-width: 768px) {{
             .stApp {{
                 padding: 0.5rem;
@@ -174,6 +174,79 @@ class UITheme:
             
             .card {{
                 padding: 1rem;
+            }}
+            
+            /* サイドバーをモバイルで使いやすく */
+            .css-1d391kg {{
+                width: 100%;
+            }}
+            
+            /* テキストサイズ調整 */
+            h1 {{
+                font-size: 1.5rem;
+            }}
+            
+            h2 {{
+                font-size: 1.2rem;
+            }}
+            
+            h3 {{
+                font-size: 1rem;
+            }}
+            
+            /* ボタンのサイズ調整 */
+            .stButton > button {{
+                width: 100%;
+                padding: 0.75rem;
+                font-size: 1rem;
+            }}
+            
+            /* 選択ボックスのサイズ調整 */
+            .stSelectbox {{
+                width: 100%;
+            }}
+            
+            /* 入力フィールドのサイズ調整 */
+            .stTextInput > div > div > input {{
+                font-size: 16px; /* iOSでズームを防ぐ */
+            }}
+            
+            .stTextArea > div > div > textarea {{
+                font-size: 16px; /* iOSでズームを防ぐ */
+            }}
+            
+            /* メトリックカードの調整 */
+            .metric-card {{
+                padding: 0.75rem;
+            }}
+            
+            /* カラムの調整 */
+            .stColumn {{
+                width: 100% !important;
+            }}
+        }}
+        
+        /* タッチデバイス用の最適化 */
+        @media (hover: none) and (pointer: coarse) {{
+            /* タッチデバイス用のスタイル */
+            .stButton > button {{
+                min-height: 44px; /* タッチしやすいサイズ */
+            }}
+            
+            .stSelectbox > div > div {{
+                min-height: 44px;
+            }}
+            
+            .stRadio > div {{
+                min-height: 44px;
+            }}
+        }}
+        
+        /* ビューポート設定 */
+        @media screen and (max-width: 768px) {{
+            /* モバイルでのフォントサイズ最適化 */
+            body {{
+                font-size: 14px;
             }}
         }}
         </style>

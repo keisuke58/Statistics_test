@@ -27,7 +27,8 @@ from src.utils import load_json, format_time
 st.set_page_config(
     page_title="統計検定マスター",
     page_icon="📊",
-    layout="wide"
+    layout="wide",
+    initial_sidebar_state="auto"  # モバイルで自動的に折りたたみ
 )
 
 # セッション状態の初期化
@@ -221,15 +222,16 @@ elif page == "問題練習":
             else:
                 answer = None
             
+            # モバイル対応: ボタンを縦並びに
             col1, col2 = st.columns(2)
             
             with col1:
-                if st.button("前の問題", disabled=index == 0):
+                if st.button("前の問題", disabled=index == 0, use_container_width=True):
                     st.session_state["practice_index"] = index - 1
                     st.rerun()
             
             with col2:
-                if st.button("次の問題", disabled=index == len(problems) - 1):
+                if st.button("次の問題", disabled=index == len(problems) - 1, use_container_width=True):
                     st.session_state["practice_answers"][problem["problem_id"]] = answer
                     st.session_state["practice_index"] = index + 1
                     st.rerun()
@@ -361,11 +363,11 @@ elif page == "模擬試験":
                 
                 col1, col2 = st.columns(2)
                 with col1:
-                    if st.button("前の問題", disabled=problem_index == 0):
+                    if st.button("前の問題", disabled=problem_index == 0, use_container_width=True):
                         st.session_state["exam_problem_index"] = problem_index - 1
                         st.rerun()
                 with col2:
-                    if st.button("次の問題", disabled=problem_index == len(problems) - 1):
+                    if st.button("次の問題", disabled=problem_index == len(problems) - 1, use_container_width=True):
                         st.session_state["exam_problem_index"] = problem_index + 1
                         st.rerun()
                 

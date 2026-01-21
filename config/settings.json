@@ -1,0 +1,48 @@
+{
+  "app_name": "統計検定学習支援システム",
+  "version": "1.0.0",
+  "grades": {
+    "2": {
+      "name": "2級",
+      "questions": 35,
+      "time_minutes": 90,
+      "passing_score": 70,
+      "question_type": "multiple_choice"
+    },
+    "pre1": {
+      "name": "準1級",
+      "questions": 30,
+      "time_minutes": 90,
+      "passing_score": 60,
+      "question_type": "mixed"
+    },
+    "1": {
+      "name": "1級",
+      "questions_math": 5,
+      "questions_applied": 5,
+      "select_math": 3,
+      "select_applied": 3,
+      "time_minutes": 90,
+      "question_type": "essay"
+    }
+  },
+  "categories": {
+    "grade2": [
+      "data_description",
+      "probability",
+      "inference",
+      "regression"
+    ],
+    "grade_pre1": [
+      "regression_advanced",
+      "anova",
+      "multivariate",
+      "time_series",
+      "bayes"
+    ],
+    "grade1": [
+      "statistics_math",
+      "statistics_applied"
+    ]
+  }
+}

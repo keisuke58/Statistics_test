@@ -1,0 +1,14 @@
+[
+  {
+    "problem_id": "G1_001",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定について説明し、正規分布の平均と分散の最尤推定量を導出せよ。",
+    "correct_answer": "",
+    "explanation": "最尤推定は、観測データが得られる確率（尤度）を最大化するパラメータを推定する方法。正規分布N(μ, σ²)の場合、最尤推定量は標本平均と標本分散（nで割る方）である。",
+    "formulas_used": ["maximum_likelihood", "normal_distribution"],
+    "tags": ["最尤推定", "正規分布", "統計数理"]
+  }
+]

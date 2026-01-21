@@ -1,0 +1,41 @@
+[
+  {
+    "problem_id": "G2_001",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[10, 20, 30, 40, 50]",
+    "options": ["25", "30", "35", "40"],
+    "correct_answer": 1,
+    "explanation": "平均値 = (10+20+30+40+50)/5 = 150/5 = 30",
+    "formulas_used": ["mean"],
+    "tags": ["平均", "基本統計量"]
+  },
+  {
+    "problem_id": "G2_002",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "データ [5, 7, 8, 9, 11] の中央値は？",
+    "options": ["7", "8", "9", "7.5"],
+    "correct_answer": 1,
+    "explanation": "データを小さい順に並べると [5, 7, 8, 9, 11]。中央値は8。",
+    "formulas_used": ["median"],
+    "tags": ["中央値", "基本統計量"]
+  },
+  {
+    "problem_id": "G2_003",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "データ [2, 4, 6, 8, 10] の分散は？（母分散）",
+    "options": ["8", "10", "12", "6"],
+    "correct_answer": 0,
+    "explanation": "平均 = 6\n分散 = ((2-6)² + (4-6)² + (6-6)² + (8-6)² + (10-6)²) / 5 = (16+4+0+4+16)/5 = 40/5 = 8",
+    "formulas_used": ["variance"],
+    "tags": ["分散", "基本統計量"]
+  }
+]

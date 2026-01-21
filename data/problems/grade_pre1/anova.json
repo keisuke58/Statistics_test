@@ -1,0 +1,15 @@
+[
+  {
+    "problem_id": "GP1_003",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "numeric_input",
+    "question": "一元配置分散分析において、群間平方和が120、群内平方和が80、群数が3、各群のサンプル数が10の場合、F統計量は？（小数点以下2桁）",
+    "correct_answer": 20.25,
+    "tolerance": 0.5,
+    "explanation": "F = (群間平方和/(群数-1)) / (群内平方和/(総サンプル数-群数)) = (120/2) / (80/27) = 60 / 2.96 ≈ 20.27",
+    "formulas_used": ["f_statistic"],
+    "tags": ["分散分析", "F検定"]
+  }
+]

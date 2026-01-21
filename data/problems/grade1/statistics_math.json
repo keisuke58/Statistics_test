@@ -8,7 +8,554 @@
     "question": "最尤推定について説明し、正規分布の平均と分散の最尤推定量を導出せよ。",
     "correct_answer": "",
     "explanation": "最尤推定は、観測データが得られる確率（尤度）を最大化するパラメータを推定する方法。正規分布N(μ, σ²)の場合、最尤推定量は標本平均と標本分散（nで割る方）である。",
-    "formulas_used": ["maximum_likelihood", "normal_distribution"],
-    "tags": ["最尤推定", "正規分布", "統計数理"]
+    "formulas_used": [
+      "maximum_likelihood",
+      "normal_distribution"
+    ],
+    "tags": [
+      "最尤推定",
+      "正規分布",
+      "統計数理"
+    ]
+  },
+  {
+    "problem_id": "G1_math_001",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_002",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_003",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_004",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_005",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_006",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_007",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_008",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_009",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_010",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_011",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_012",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_013",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_014",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_015",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_016",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_017",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_018",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "確率変数Xが正規分布N(μ, σ²)に従うとき、Y = aX + b (a≠0)の分布は？",
+    "correct_answer": "N(aμ+b, a²σ²)",
+    "explanation": "正規分布の線形変換の性質より、Y = aX + bはN(aμ+b, a²σ²)に従う。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_019",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "確率変数Xが正規分布N(μ, σ²)に従うとき、Y = aX + b (a≠0)の分布は？",
+    "correct_answer": "N(aμ+b, a²σ²)",
+    "explanation": "正規分布の線形変換の性質より、Y = aX + bはN(aμ+b, a²σ²)に従う。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_020",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_021",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "確率変数Xが正規分布N(μ, σ²)に従うとき、Y = aX + b (a≠0)の分布は？",
+    "correct_answer": "N(aμ+b, a²σ²)",
+    "explanation": "正規分布の線形変換の性質より、Y = aX + bはN(aμ+b, a²σ²)に従う。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_022",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_023",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "確率変数Xが正規分布N(μ, σ²)に従うとき、Y = aX + b (a≠0)の分布は？",
+    "correct_answer": "N(aμ+b, a²σ²)",
+    "explanation": "正規分布の線形変換の性質より、Y = aX + bはN(aμ+b, a²σ²)に従う。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_024",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_025",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_026",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_027",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_028",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "フィッシャー情報量I(θ)の定義式を書け。",
+    "correct_answer": "I(θ) = E[(-∂²log f(X;θ)/∂θ²)]",
+    "explanation": "フィッシャー情報量は、対数尤度関数の2階偏微分の期待値の負の値として定義される。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_029",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "中心極限定理の内容を簡潔に説明せよ。",
+    "correct_answer": "独立同分布の確率変数の和は、サンプルサイズが大きくなると正規分布に近づく",
+    "explanation": "中心極限定理は、独立同分布の確率変数X₁, X₂, ..., Xₙの和や平均が、nが大きくなると正規分布に近づくことを示す。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
+  },
+  {
+    "problem_id": "G1_math_030",
+    "grade": "1",
+    "category": "statistics_math",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "最尤推定量の定義を述べよ。",
+    "correct_answer": "観測データに対する尤度関数を最大化するパラメータの推定量",
+    "explanation": "最尤推定量は、観測されたデータが得られる確率（尤度）を最大にするパラメータの値である。",
+    "formulas_used": [
+      "probability_theory",
+      "estimation"
+    ],
+    "tags": [
+      "統計数理",
+      "理論"
+    ]
   }
 ]

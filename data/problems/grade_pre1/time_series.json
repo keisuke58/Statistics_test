@@ -1,0 +1,377 @@
+[
+  {
+    "problem_id": "GP1_ts_001",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_002",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_003",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_004",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_005",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_006",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_007",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_008",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_009",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_010",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_011",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_012",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_013",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_014",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_015",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "ラグ1で0.8という高い値は、強い正の自己相関を示している。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  }
+]

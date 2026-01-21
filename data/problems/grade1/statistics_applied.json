@@ -1,0 +1,362 @@
+[
+  {
+    "problem_id": "G1_app_001",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_002",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_003",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_004",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_005",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_006",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_007",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_008",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_009",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_010",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_011",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_012",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_013",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_014",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_015",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_016",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_017",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_018",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_019",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_020",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  }
+]

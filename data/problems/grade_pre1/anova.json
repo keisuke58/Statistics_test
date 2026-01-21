@@ -9,7 +9,492 @@
     "correct_answer": 20.25,
     "tolerance": 0.5,
     "explanation": "F = (群間平方和/(群数-1)) / (群内平方和/(総サンプル数-群数)) = (120/2) / (80/27) = 60 / 2.96 ≈ 20.27",
-    "formulas_used": ["f_statistic"],
-    "tags": ["分散分析", "F検定"]
+    "formulas_used": [
+      "f_statistic"
+    ],
+    "tags": [
+      "分散分析",
+      "F検定"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_001",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数19のとき、群間の自由度は？",
+    "options": [
+      "3",
+      "4",
+      "75",
+      "72"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 4 - 1 = 3",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_002",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数12のとき、群内の自由度は？",
+    "options": [
+      "33",
+      "2",
+      "35",
+      "3"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 36 - 3 = 33",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_003",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数21のとき、群間の自由度は？",
+    "options": [
+      "3",
+      "4",
+      "83",
+      "80"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 4 - 1 = 3",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_004",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数22のとき、群内の自由度は？",
+    "options": [
+      "63",
+      "2",
+      "65",
+      "3"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 66 - 3 = 63",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_005",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数20のとき、群内の自由度は？",
+    "options": [
+      "57",
+      "2",
+      "59",
+      "3"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 60 - 3 = 57",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_006",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数26のとき、群間の自由度は？",
+    "options": [
+      "2",
+      "3",
+      "77",
+      "75"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 3 - 1 = 2",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_007",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数26のとき、群内の自由度は？",
+    "options": [
+      "100",
+      "3",
+      "103",
+      "4"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 104 - 4 = 100",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_008",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数5、各群のサンプル数30のとき、群内の自由度は？",
+    "options": [
+      "145",
+      "4",
+      "149",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 150 - 5 = 145",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_009",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数24のとき、群間の自由度は？",
+    "options": [
+      "3",
+      "4",
+      "95",
+      "92"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 4 - 1 = 3",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_010",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数15のとき、群間の自由度は？",
+    "options": [
+      "2",
+      "3",
+      "44",
+      "42"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 3 - 1 = 2",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_011",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数10のとき、群内の自由度は？",
+    "options": [
+      "27",
+      "2",
+      "29",
+      "3"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 30 - 3 = 27",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_012",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数5、各群のサンプル数25のとき、群間の自由度は？",
+    "options": [
+      "4",
+      "5",
+      "124",
+      "120"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 5 - 1 = 4",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_013",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数26のとき、群間の自由度は？",
+    "options": [
+      "2",
+      "3",
+      "77",
+      "75"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 3 - 1 = 2",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_014",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数25のとき、群間の自由度は？",
+    "options": [
+      "2",
+      "3",
+      "74",
+      "72"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 3 - 1 = 2",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_015",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数27のとき、群内の自由度は？",
+    "options": [
+      "104",
+      "3",
+      "107",
+      "4"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 108 - 4 = 104",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_016",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数14のとき、群間の自由度は？",
+    "options": [
+      "2",
+      "3",
+      "41",
+      "39"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 3 - 1 = 2",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_017",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数19のとき、群内の自由度は？",
+    "options": [
+      "72",
+      "3",
+      "75",
+      "4"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 76 - 4 = 72",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_018",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数4、各群のサンプル数10のとき、群内の自由度は？",
+    "options": [
+      "36",
+      "3",
+      "39",
+      "4"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 40 - 4 = 36",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_019",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数5、各群のサンプル数10のとき、群間の自由度は？",
+    "options": [
+      "4",
+      "5",
+      "49",
+      "45"
+    ],
+    "correct_answer": 0,
+    "explanation": "群間の自由度 = 群数 - 1 = 5 - 1 = 4",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
+  },
+  {
+    "problem_id": "GP1_anova_020",
+    "grade": "pre1",
+    "category": "anova",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "一元配置分散分析において、群数3、各群のサンプル数16のとき、群内の自由度は？",
+    "options": [
+      "45",
+      "2",
+      "47",
+      "3"
+    ],
+    "correct_answer": 0,
+    "explanation": "群内の自由度 = 総サンプル数 - 群数 = 48 - 3 = 45",
+    "formulas_used": [
+      "anova",
+      "degrees_of_freedom"
+    ],
+    "tags": [
+      "分散分析",
+      "ANOVA"
+    ]
   }
 ]

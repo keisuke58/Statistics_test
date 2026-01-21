@@ -1,0 +1,242 @@
+[
+  {
+    "problem_id": "GP1_bayes_001",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_002",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_003",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_004",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_005",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_006",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_007",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_008",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_009",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_010",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.3、尤度P(B|A)=0.8、周辺確率P(B)=0.5のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.48",
+      "0.24",
+      "0.8",
+      "0.3",
+      "0.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.8 × 0.3 / 0.5 = 0.24 / 0.5 = 0.48",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  }
+]

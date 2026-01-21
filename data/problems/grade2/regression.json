@@ -1,0 +1,577 @@
+[
+  {
+    "problem_id": "G2_reg_001",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.10、切片が8.78のとき、x=10の予測値yは？",
+    "options": [
+      "29.79",
+      "21.01",
+      "8.78",
+      "10.88"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.10 × 10 + 8.78 = 29.79",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_002",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.40、切片が-0.92のとき、x=10の予測値yは？",
+    "options": [
+      "13.12",
+      "14.05",
+      "-0.92",
+      "0.48"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.40 × 10 + -0.92 = 13.12",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_003",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.54、切片が7.47のとき、x=10の予測値yは？",
+    "options": [
+      "12.90",
+      "5.44",
+      "7.47",
+      "8.01"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.54 × 10 + 7.47 = 12.90",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_004",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.53、切片が-0.51のとき、x=10の予測値yは？",
+    "options": [
+      "4.83",
+      "5.34",
+      "-0.51",
+      "0.03"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.53 × 10 + -0.51 = 4.83",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_005",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.83、切片が7.21のとき、x=10の予測値yは？",
+    "options": [
+      "35.51",
+      "28.30",
+      "7.21",
+      "10.04"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.83 × 10 + 7.21 = 35.51",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_006",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.75、切片が4.40のとき、x=10の予測値yは？",
+    "options": [
+      "21.92",
+      "17.53",
+      "4.40",
+      "6.15"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.75 × 10 + 4.40 = 21.92",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_007",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.87、切片が9.94のとき、x=10の予測値yは？",
+    "options": [
+      "28.68",
+      "18.73",
+      "9.94",
+      "11.81"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.87 × 10 + 9.94 = 28.68",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_008",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.02、切片が2.50のとき、x=10の予測値yは？",
+    "options": [
+      "22.70",
+      "20.20",
+      "2.50",
+      "4.52"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.02 × 10 + 2.50 = 22.70",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_009",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.79、切片が-2.62のとき、x=10の予測値yは？",
+    "options": [
+      "5.25",
+      "7.86",
+      "-2.62",
+      "-1.83"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.79 × 10 + -2.62 = 5.25",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_010",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.94、切片が-8.78のとき、x=10の予測値yは？",
+    "options": [
+      "10.64",
+      "19.42",
+      "-8.78",
+      "-6.84"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.94 × 10 + -8.78 = 10.64",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_011",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.93、切片が-0.58のとき、x=10の予測値yは？",
+    "options": [
+      "8.69",
+      "9.28",
+      "-0.58",
+      "0.35"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.93 × 10 + -0.58 = 8.69",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_012",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.45、切片が4.55のとき、x=10の予測値yは？",
+    "options": [
+      "19.01",
+      "14.46",
+      "4.55",
+      "5.99"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.45 × 10 + 4.55 = 19.01",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_013",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.56、切片が-2.53のとき、x=10の予測値yは？",
+    "options": [
+      "13.06",
+      "15.59",
+      "-2.53",
+      "-0.97"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.56 × 10 + -2.53 = 13.06",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_014",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.06、切片が8.82のとき、x=10の予測値yは？",
+    "options": [
+      "19.41",
+      "10.59",
+      "8.82",
+      "9.88"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.06 × 10 + 8.82 = 19.41",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_015",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.67、切片が-3.93のとき、x=10の予測値yは？",
+    "options": [
+      "22.75",
+      "26.69",
+      "-3.93",
+      "-1.26"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.67 × 10 + -3.93 = 22.75",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_016",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.39、切片が-1.10のとき、x=10の予測値yは？",
+    "options": [
+      "22.75",
+      "23.85",
+      "-1.10",
+      "1.28"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.39 × 10 + -1.10 = 22.75",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_017",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.05、切片が2.90のとき、x=10の予測値yは？",
+    "options": [
+      "23.43",
+      "20.53",
+      "2.90",
+      "4.95"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.05 × 10 + 2.90 = 23.43",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_018",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.01、切片が6.43のとき、x=10の予測値yは？",
+    "options": [
+      "16.57",
+      "10.14",
+      "6.43",
+      "7.44"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.01 × 10 + 6.43 = 16.57",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_019",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.81、切片が3.12のとき、x=10の予測値yは？",
+    "options": [
+      "11.21",
+      "8.09",
+      "3.12",
+      "3.93"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.81 × 10 + 3.12 = 11.21",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_020",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.93、切片が9.42のとき、x=10の予測値yは？",
+    "options": [
+      "28.77",
+      "19.35",
+      "9.42",
+      "11.36"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.93 × 10 + 9.42 = 28.77",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_021",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が2.57、切片が-3.86のとき、x=10の予測値yは？",
+    "options": [
+      "21.84",
+      "25.70",
+      "-3.86",
+      "-1.29"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 2.57 × 10 + -3.86 = 21.84",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_022",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.85、切片が0.69のとき、x=10の予測値yは？",
+    "options": [
+      "19.22",
+      "18.53",
+      "0.69",
+      "2.54"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.85 × 10 + 0.69 = 19.22",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_023",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.97、切片が-5.43のとき、x=10の予測値yは？",
+    "options": [
+      "4.22",
+      "9.65",
+      "-5.43",
+      "-4.46"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.97 × 10 + -5.43 = 4.22",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_024",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が1.29、切片が-7.23のとき、x=10の予測値yは？",
+    "options": [
+      "5.63",
+      "12.85",
+      "-7.23",
+      "-5.94"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 1.29 × 10 + -7.23 = 5.63",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  },
+  {
+    "problem_id": "G2_reg_025",
+    "grade": "2",
+    "category": "regression",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "単回帰分析で、回帰係数（傾き）が0.84、切片が-8.87のとき、x=10の予測値yは？",
+    "options": [
+      "-0.48",
+      "8.39",
+      "-8.87",
+      "-8.03"
+    ],
+    "correct_answer": 0,
+    "explanation": "y = 0.84 × 10 + -8.87 = -0.48",
+    "formulas_used": [
+      "linear_regression"
+    ],
+    "tags": [
+      "回帰分析",
+      "単回帰"
+    ]
+  }
+]

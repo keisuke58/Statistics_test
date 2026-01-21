@@ -1,10 +1,12 @@
 """
-統計検定学習支援システム - メインアプリケーション
+統計検定マスター - 完全攻略システム
 """
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import numpy as np
+import random
 from datetime import datetime, timedelta
 import sys
 from pathlib import Path
@@ -17,11 +19,13 @@ from src.exam_simulator import ExamSimulator
 from src.progress_tracker import ProgressTracker
 from src.calculator import StatisticsCalculator
 from src.knowledge_base import KnowledgeBase
+from src.problem_generator import ProblemGenerator
+from src.ui_theme import UITheme
 from src.utils import load_json, format_time
 
 # ページ設定
 st.set_page_config(
-    page_title="統計検定学習支援システム",
+    page_title="統計検定マスター",
     page_icon="📊",
     layout="wide"
 )
@@ -37,9 +41,20 @@ if "calculator" not in st.session_state:
     st.session_state.calculator = StatisticsCalculator()
 if "knowledge_base" not in st.session_state:
     st.session_state.knowledge_base = KnowledgeBase()
+if "problem_generator" not in st.session_state:
+    st.session_state.problem_generator = ProblemGenerator()
+if "current_theme" not in st.session_state:
+    st.session_state.current_theme = "light"
 
 # サイドバー
-st.sidebar.title("📊 統計検定学習支援システム")
+st.sidebar.title("📊 統計検定マスター")
+st.sidebar.markdown("---")
+
+# テーマ選択
+UITheme.get_theme_selector()
+UITheme.apply_theme(st.session_state.current_theme)
+
+st.sidebar.markdown("---")
 page = st.sidebar.selectbox(
     "メニュー",
     ["ホーム", "問題練習", "模擬試験", "進捗確認", "統計計算", "知識ベース"]
@@ -47,8 +62,17 @@ page = st.sidebar.selectbox(
 
 # メインコンテンツ
 if page == "ホーム":
-    st.title("📊 統計検定学習支援システム")
+    st.title("📊 統計検定マスター")
+    st.markdown("### 🎯 完全攻略システム - 1級・準1級・2級対応")
     st.markdown("---")
+    
+    # アニメーション効果付きカード
+    st.markdown(UITheme.create_animated_card("""
+    <h3>✨ 新機能</h3>
+    <p>🎨 カスタムテーマ（ライト/ダーク/ブルー/グリーン）</p>
+    <p>📊 多様な問題タイプ（過去問スタイル、実データ、図表問題）</p>
+    <p>🔢 拡張された統計計算ツール</p>
+    """, delay=0.1), unsafe_allow_html=True)
     
     st.markdown("""
     ### ようこそ！
@@ -88,6 +112,12 @@ elif page == "問題練習":
     # 難易度フィルタ
     difficulty = st.selectbox("難易度", ["全て", "easy", "medium", "hard"])
     
+    # 問題タイプの選択
+    problem_type_filter = st.selectbox(
+        "問題タイプ",
+        ["全て", "通常", "過去問スタイル", "実データ", "図表問題"]
+    )
+    
     if st.button("練習開始"):
         # 問題を取得
         selected_category = None if category == "全分野" else category
@@ -121,6 +151,25 @@ elif page == "問題練習":
             
             # 問題文
             st.markdown(f"**問題**\n\n{problem.get('question')}")
+            
+            # 図表の表示
+            if problem.get('has_chart'):
+                chart_type = problem.get('chart_type', 'histogram')
+                if chart_type == 'histogram':
+                    # ヒストグラムのサンプルデータ
+                    sample_data = [random.gauss(50, 15) for _ in range(100)]
+                    fig = px.histogram(x=sample_data, nbins=20, title="データの分布")
+                    st.plotly_chart(fig, use_container_width=True)
+                elif chart_type == 'scatter':
+                    x_data = [random.uniform(0, 10) for _ in range(50)]
+                    y_data = [x * 2 + random.uniform(-1, 1) for x in x_data]
+                    fig = px.scatter(x=x_data, y=y_data, title="散布図")
+                    st.plotly_chart(fig, use_container_width=True)
+            
+            # 実データの表示
+            if problem.get('has_real_data') and problem.get('data'):
+                st.subheader("データ")
+                st.write(problem.get('data')[:20])  # 最初の20個を表示
             
             # 解答欄
             question_type = problem.get("question_type", "multiple_choice")
@@ -374,8 +423,11 @@ elif page == "統計計算":
         "1標本t検定",
         "2標本t検定",
         "対応のあるt検定",
+        "カイ二乗検定",
+        "F検定",
         "相関係数",
-        "単回帰分析"
+        "単回帰分析",
+        "重回帰分析"
     ])
     
     # データ入力
@@ -400,6 +452,39 @@ elif page == "統計計算":
                 st.metric("最大値", f"{stats_result['max']:.4f}")
                 st.metric("範囲", f"{stats_result['range']:.4f}")
                 st.metric("IQR", f"{stats_result['iqr']:.4f}")
+            
+            # グラフ表示
+            st.subheader("可視化")
+            tab1, tab2, tab3 = st.tabs(["ヒストグラム", "箱ひげ図", "Q-Qプロット"])
+            
+            with tab1:
+                fig = px.histogram(x=data, nbins=20, title="データの分布")
+                st.plotly_chart(fig, use_container_width=True)
+            
+            with tab2:
+                fig = go.Figure()
+                fig.add_trace(go.Box(y=data, name="データ"))
+                fig.update_layout(title="箱ひげ図")
+                st.plotly_chart(fig, use_container_width=True)
+            
+            with tab3:
+                from scipy import stats as scipy_stats
+                qq_data = scipy_stats.probplot(data, dist="norm")
+                fig = go.Figure()
+                fig.add_trace(go.Scatter(
+                    x=qq_data[0][0],
+                    y=qq_data[0][1],
+                    mode='markers',
+                    name='観測値'
+                ))
+                fig.add_trace(go.Scatter(
+                    x=qq_data[0][0],
+                    y=qq_data[1][1] + qq_data[1][0] * qq_data[0][0],
+                    mode='lines',
+                    name='理論値'
+                ))
+                fig.update_layout(title="Q-Qプロット", xaxis_title="理論的分位数", yaxis_title="観測値")
+                st.plotly_chart(fig, use_container_width=True)
         
         elif calc_type == "1標本t検定":
             mu0 = st.number_input("帰無仮説の平均値 (μ₀)", value=0.0)
@@ -431,8 +516,80 @@ elif page == "統計計算":
                 st.metric("切片", f"{result['intercept']:.4f}")
                 st.metric("決定係数 (R²)", f"{result['r_squared']:.4f}")
                 st.metric("相関係数", f"{result['correlation']:.4f}")
+                
+                # 散布図と回帰直線
+                st.subheader("散布図と回帰直線")
+                fig = go.Figure()
+                fig.add_trace(go.Scatter(
+                    x=data,
+                    y=y_data,
+                    mode='markers',
+                    name='データ'
+                ))
+                # 回帰直線
+                x_line = np.linspace(min(data), max(data), 100)
+                y_line = result['slope'] * x_line + result['intercept']
+                fig.add_trace(go.Scatter(
+                    x=x_line,
+                    y=y_line,
+                    mode='lines',
+                    name='回帰直線'
+                ))
+                fig.update_layout(title="単回帰分析", xaxis_title="x", yaxis_title="y")
+                st.plotly_chart(fig, use_container_width=True)
             else:
                 st.error("データの長さが一致しません。")
+        
+        elif calc_type == "カイ二乗検定":
+            st.subheader("分割表データ")
+            st.info("2×2の分割表を入力してください。例: [[10, 20], [30, 40]]")
+            table_input = st.text_area("分割表（カンマ区切り、行ごと）", "10, 20, 30, 40")
+            try:
+                values = [float(x.strip()) for x in table_input.split(",")]
+                if len(values) == 4:
+                    observed = [[values[0], values[1]], [values[2], values[3]]]
+                    result = st.session_state.calculator.chi_square_test(observed)
+                    st.metric("カイ二乗統計量", f"{result['chi2_statistic']:.4f}")
+                    st.metric("p値", f"{result['p_value']:.4f}")
+                    st.metric("自由度", result['degrees_of_freedom'])
+                else:
+                    st.error("4つの値を入力してください。")
+            except:
+                st.error("データの形式が正しくありません。")
+        
+        elif calc_type == "F検定":
+            st.subheader("2つ目のデータ")
+            data2_input = st.text_area("2つ目のデータ（カンマ区切り）", "6, 7, 8, 9, 10")
+            data2 = [float(x.strip()) for x in data2_input.split(",")]
+            
+            result = st.session_state.calculator.f_test(data, data2)
+            st.metric("F統計量", f"{result['f_statistic']:.4f}")
+            st.metric("p値", f"{result['p_value']:.4f}")
+            st.metric("自由度1", result['df1'])
+            st.metric("自由度2", result['df2'])
+        
+        elif calc_type == "重回帰分析":
+            st.subheader("説明変数X（複数）")
+            st.info("各行が1つの観測値、各列が説明変数です。例: 1,2,3,4,5 で1つの説明変数")
+            x_input = st.text_area("Xデータ（カンマ区切り、観測値ごとに改行）", "1,2\n3,4\n5,6")
+            st.subheader("目的変数y")
+            y_input = st.text_area("yデータ（カンマ区切り）", "10, 20, 30")
+            
+            try:
+                y_data = [float(x.strip()) for x in y_input.split(",")]
+                lines = [line.strip() for line in x_input.split("\n") if line.strip()]
+                X_data = [[float(x.strip()) for x in line.split(",")] for line in lines]
+                
+                if len(X_data) == len(y_data):
+                    result = st.session_state.calculator.multiple_regression(X_data, y_data)
+                    st.metric("切片", f"{result['intercept']:.4f}")
+                    st.metric("決定係数 (R²)", f"{result['r_squared']:.4f}")
+                    st.metric("調整済み決定係数", f"{result['adjusted_r_squared']:.4f}")
+                    st.write("**回帰係数**:", result['coefficients'])
+                else:
+                    st.error("データの長さが一致しません。")
+            except:
+                st.error("データの形式が正しくありません。")
     
     except ValueError:
         st.error("データの形式が正しくありません。数値をカンマ区切りで入力してください。")

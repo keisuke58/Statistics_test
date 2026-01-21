@@ -6,11 +6,21 @@
     "difficulty": "easy",
     "question_type": "multiple_choice",
     "question": "サイコロを1回振ったとき、偶数の目が出る確率は？",
-    "options": ["1/2", "1/3", "1/6", "2/3"],
+    "options": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "2/3"
+    ],
     "correct_answer": 0,
     "explanation": "偶数の目は2, 4, 6の3通り。全事象は6通り。確率 = 3/6 = 1/2",
-    "formulas_used": ["probability"],
-    "tags": ["確率", "基礎"]
+    "formulas_used": [
+      "probability"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
   },
   {
     "problem_id": "G2_005",
@@ -19,10 +29,740 @@
     "difficulty": "medium",
     "question_type": "multiple_choice",
     "question": "コインを3回投げたとき、表が2回出る確率は？",
-    "options": ["3/8", "1/2", "1/4", "5/8"],
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
     "correct_answer": 0,
     "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
-    "formulas_used": ["binomial"],
-    "tags": ["二項分布", "確率"]
+    "formulas_used": [
+      "binomial"
+    ],
+    "tags": [
+      "二項分布",
+      "確率"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_001",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_002",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_003",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_004",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "コインを3回投げたとき、表がちょうど2回出る確率は？",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
+    "correct_answer": 0,
+    "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_005",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_006",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_007",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_008",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_009",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "2つのサイコロを振ったとき、目の和が7になる確率は？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "7/36"
+    ],
+    "correct_answer": 0,
+    "explanation": "和が7になる組み合わせは(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)の6通り。確率 = 6/36 = 1/6",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_010",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_011",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "コインを3回投げたとき、表がちょうど2回出る確率は？",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
+    "correct_answer": 0,
+    "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_012",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_013",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_014",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_015",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_016",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "2つのサイコロを振ったとき、目の和が7になる確率は？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "7/36"
+    ],
+    "correct_answer": 0,
+    "explanation": "和が7になる組み合わせは(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)の6通り。確率 = 6/36 = 1/6",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_017",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_018",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_019",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "2つのサイコロを振ったとき、目の和が7になる確率は？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "7/36"
+    ],
+    "correct_answer": 0,
+    "explanation": "和が7になる組み合わせは(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)の6通り。確率 = 6/36 = 1/6",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_020",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "サイコロを1回振ったとき、3以上の目が出る確率は？",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "correct_answer": 2,
+    "explanation": "3以上の目は3, 4, 5, 6の4通り。確率 = 4/6 = 2/3",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_021",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "コインを3回投げたとき、表がちょうど2回出る確率は？",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
+    "correct_answer": 0,
+    "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_022",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "コインを3回投げたとき、表がちょうど2回出る確率は？",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
+    "correct_answer": 0,
+    "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_023",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "コインを3回投げたとき、表がちょうど2回出る確率は？",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
+    "correct_answer": 0,
+    "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_024",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_025",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "2つのサイコロを振ったとき、目の和が7になる確率は？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "7/36"
+    ],
+    "correct_answer": 0,
+    "explanation": "和が7になる組み合わせは(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)の6通り。確率 = 6/36 = 1/6",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_026",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_027",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "2つのサイコロを振ったとき、目の和が7になる確率は？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "7/36"
+    ],
+    "correct_answer": 0,
+    "explanation": "和が7になる組み合わせは(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)の6通り。確率 = 6/36 = 1/6",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_028",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "コインを3回投げたとき、表がちょうど2回出る確率は？",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "5/8"
+    ],
+    "correct_answer": 0,
+    "explanation": "二項分布: C(3,2) × (1/2)² × (1/2)¹ = 3 × 1/4 × 1/2 = 3/8",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_029",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "52枚のトランプから1枚引いたとき、ハートのカードが出る確率は？",
+    "options": [
+      "1/4",
+      "1/13",
+      "1/52",
+      "13/52"
+    ],
+    "correct_answer": 0,
+    "explanation": "ハートは13枚。確率 = 13/52 = 1/4",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
+  },
+  {
+    "problem_id": "G2_prob_030",
+    "grade": "2",
+    "category": "probability",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "2つのサイコロを振ったとき、目の和が7になる確率は？",
+    "options": [
+      "1/6",
+      "1/12",
+      "1/36",
+      "7/36"
+    ],
+    "correct_answer": 0,
+    "explanation": "和が7になる組み合わせは(1,6), (2,5), (3,4), (4,3), (5,2), (6,1)の6通り。確率 = 6/36 = 1/6",
+    "formulas_used": [
+      "probability",
+      "binomial"
+    ],
+    "tags": [
+      "確率",
+      "基礎"
+    ]
   }
 ]

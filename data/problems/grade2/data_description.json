@@ -6,11 +6,21 @@
     "difficulty": "easy",
     "question_type": "multiple_choice",
     "question": "次のデータの平均値は？\n[10, 20, 30, 40, 50]",
-    "options": ["25", "30", "35", "40"],
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
     "correct_answer": 1,
     "explanation": "平均値 = (10+20+30+40+50)/5 = 150/5 = 30",
-    "formulas_used": ["mean"],
-    "tags": ["平均", "基本統計量"]
+    "formulas_used": [
+      "mean"
+    ],
+    "tags": [
+      "平均",
+      "基本統計量"
+    ]
   },
   {
     "problem_id": "G2_002",
@@ -19,11 +29,21 @@
     "difficulty": "medium",
     "question_type": "multiple_choice",
     "question": "データ [5, 7, 8, 9, 11] の中央値は？",
-    "options": ["7", "8", "9", "7.5"],
+    "options": [
+      "7",
+      "8",
+      "9",
+      "7.5"
+    ],
     "correct_answer": 1,
     "explanation": "データを小さい順に並べると [5, 7, 8, 9, 11]。中央値は8。",
-    "formulas_used": ["median"],
-    "tags": ["中央値", "基本統計量"]
+    "formulas_used": [
+      "median"
+    ],
+    "tags": [
+      "中央値",
+      "基本統計量"
+    ]
   },
   {
     "problem_id": "G2_003",
@@ -32,10 +52,800 @@
     "difficulty": "medium",
     "question_type": "multiple_choice",
     "question": "データ [2, 4, 6, 8, 10] の分散は？（母分散）",
-    "options": ["8", "10", "12", "6"],
+    "options": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
     "correct_answer": 0,
     "explanation": "平均 = 6\n分散 = ((2-6)² + (4-6)² + (6-6)² + (8-6)² + (10-6)²) / 5 = (16+4+0+4+16)/5 = 40/5 = 8",
-    "formulas_used": ["variance"],
-    "tags": ["分散", "基本統計量"]
+    "formulas_used": [
+      "variance"
+    ],
+    "tags": [
+      "分散",
+      "基本統計量"
+    ]
+  },
+  {
+    "problem_id": "G2_data_001",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[54, 66, 70, 65, 96, 83, 18, 27, 98, 35]",
+    "options": [
+      "26.32",
+      "52.65",
+      "692.96",
+      "61.20"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 26.32",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_002",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[56, 26, 81, 43, 87, 70, 76, 18, 12, 89, 20, 40, 56, 12, 34]",
+    "options": [
+      "26.75",
+      "53.50",
+      "715.47",
+      "48.00"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 26.75",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_003",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[28, 45, 19, 13, 87, 31, 97, 50]",
+    "options": [
+      "28.86",
+      "57.73",
+      "833.19",
+      "46.25"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 28.86",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_004",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[87, 66, 35, 50, 14, 46, 58]",
+    "options": [
+      "460.1",
+      "920.2",
+      "21.5",
+      "920.2"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 50.86\n分散 = 460.12",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_005",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[19, 55, 14, 62, 26, 38, 51, 62, 62, 70, 43, 93, 71, 22]",
+    "options": [
+      "22.28",
+      "44.55",
+      "496.27",
+      "49.14"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 22.28",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_006",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[42, 98, 31, 12, 83, 40, 23, 22, 56]",
+    "options": [
+      "27.30",
+      "54.59",
+      "745.06",
+      "45.22"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 27.30",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_007",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[44, 11, 79, 96, 23, 18, 32, 76, 24, 70, 29, 26]",
+    "options": [
+      "744.0",
+      "1488.0",
+      "27.3",
+      "1488.0"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 44.00\n分散 = 744.00",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_008",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[53, 14, 39, 58, 58, 59, 82, 29]",
+    "options": [
+      "49.0",
+      "54.0",
+      "44.0",
+      "53.9"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均値 = 392 / 8 = 49.00",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_009",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[63, 62, 46, 75, 77, 84, 80]",
+    "options": [
+      "69.6",
+      "74.6",
+      "64.6",
+      "76.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均値 = 487 / 7 = 69.57",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_010",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[89, 48, 50, 80, 42, 36, 93, 55, 42, 79]",
+    "options": [
+      "416.4",
+      "832.9",
+      "20.4",
+      "832.9"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 61.40\n分散 = 416.44",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_011",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの中央値は？\n[12, 12, 28, 31, 33, 42, 43, 50, 55, 62, 66]",
+    "options": [
+      "42.0",
+      "44.0",
+      "40.0",
+      "39.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "データを小さい順に並べると [12, 12, 28, 31, 33, 42, 43, 50, 55, 62, 66]。中央値は42.00。",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_012",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの中央値は？\n[15, 19, 34, 35, 43, 48, 50, 60, 90, 95, 96, 96, 99]",
+    "options": [
+      "50.0",
+      "52.0",
+      "48.0",
+      "60.0"
+    ],
+    "correct_answer": 0,
+    "explanation": "データを小さい順に並べると [15, 19, 34, 35, 43, 48, 50, 60, 90, 95, 96, 96, 99]。中央値は50.00。",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_013",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの中央値は？\n[17, 36, 44, 65, 70, 76, 86]",
+    "options": [
+      "65.0",
+      "67.0",
+      "63.0",
+      "56.3"
+    ],
+    "correct_answer": 0,
+    "explanation": "データを小さい順に並べると [17, 36, 44, 65, 70, 76, 86]。中央値は65.00。",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_014",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[83, 44, 68, 62, 17, 31, 20, 33, 25, 99, 82, 12]",
+    "options": [
+      "806.5",
+      "1613.0",
+      "28.4",
+      "1613.0"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 48.00\n分散 = 806.50",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_015",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[33, 31, 18, 95, 58, 11]",
+    "options": [
+      "799.7",
+      "1599.3",
+      "28.3",
+      "1599.3"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 41.00\n分散 = 799.67",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_016",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[43, 35, 73, 12, 59, 38, 17, 49, 29]",
+    "options": [
+      "39.4",
+      "44.4",
+      "34.4",
+      "43.4"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均値 = 355 / 9 = 39.44",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_017",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの中央値は？\n[47, 49, 49, 59, 61, 75, 84, 87, 88, 90, 95]",
+    "options": [
+      "75.0",
+      "77.0",
+      "73.0",
+      "71.3"
+    ],
+    "correct_answer": 0,
+    "explanation": "データを小さい順に並べると [47, 49, 49, 59, 61, 75, 84, 87, 88, 90, 95]。中央値は75.00。",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_018",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[53, 62, 20, 82, 30]",
+    "options": [
+      "22.25",
+      "44.50",
+      "495.04",
+      "49.40"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 22.25",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_019",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[100, 73, 33, 95, 29, 93, 91, 70, 14, 97, 89]",
+    "options": [
+      "887.5",
+      "1774.9",
+      "29.8",
+      "1774.9"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 71.27\n分散 = 887.47",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_020",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[90, 35, 69, 94, 32, 57, 50, 48, 56, 81, 66, 27, 36, 62]",
+    "options": [
+      "57.4",
+      "62.4",
+      "52.4",
+      "63.1"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均値 = 803 / 14 = 57.36",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_021",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの中央値は？\n[10, 12, 13, 19, 32, 49, 49, 52, 77, 89, 90, 92, 95]",
+    "options": [
+      "49.0",
+      "51.0",
+      "47.0",
+      "52.2"
+    ],
+    "correct_answer": 0,
+    "explanation": "データを小さい順に並べると [10, 12, 13, 19, 32, 49, 49, 52, 77, 89, 90, 92, 95]。中央値は49.00。",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_022",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[45, 50, 23, 11, 31, 60, 11, 69, 92, 92, 28, 87]",
+    "options": [
+      "833.2",
+      "1666.5",
+      "28.9",
+      "1666.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 49.92\n分散 = 833.24",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_023",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[86, 14, 38, 33, 31, 33, 84, 77, 69, 54, 87, 59]",
+    "options": [
+      "586.2",
+      "1172.5",
+      "24.2",
+      "1172.5"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 55.42\n分散 = 586.24",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_024",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[15, 18, 90, 70, 40, 11, 50, 65, 29, 38, 84, 67]",
+    "options": [
+      "25.95",
+      "51.90",
+      "673.41",
+      "48.08"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 25.95",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_025",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[85, 20, 54, 28, 40, 17, 52, 38, 27, 38, 25, 91, 63, 31]",
+    "options": [
+      "43.5",
+      "48.5",
+      "38.5",
+      "47.9"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均値 = 609 / 14 = 43.50",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_026",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[28, 71, 26, 98, 24, 96]",
+    "options": [
+      "1048.1",
+      "2096.3",
+      "32.4",
+      "2096.3"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 57.17\n分散 = 1048.14",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_027",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[48, 13, 30, 67, 27, 73, 35, 68, 26, 94, 67, 27, 31, 75]",
+    "options": [
+      "568.5",
+      "1137.0",
+      "23.8",
+      "1137.0"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 48.64\n分散 = 568.52",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_028",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの標準偏差は？\n[15, 42, 77, 97, 75]",
+    "options": [
+      "29.07",
+      "58.14",
+      "844.96",
+      "61.20"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準偏差 = √分散 = 29.07",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_029",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "次のデータの分散は？（母分散）\n[49, 63, 49, 96, 49, 57, 79, 67, 29, 42, 31, 93]",
+    "options": [
+      "440.1",
+      "880.1",
+      "21.0",
+      "880.1"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均 = 58.67\n分散 = 440.06",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
+  },
+  {
+    "problem_id": "G2_data_030",
+    "grade": "2",
+    "category": "data_description",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "次のデータの平均値は？\n[87, 94, 46, 53, 39, 39, 95, 83, 29, 25, 44, 65, 14, 86, 21]",
+    "options": [
+      "54.7",
+      "59.7",
+      "49.7",
+      "60.1"
+    ],
+    "correct_answer": 0,
+    "explanation": "平均値 = 820 / 15 = 54.67",
+    "formulas_used": [
+      "mean",
+      "median",
+      "variance",
+      "std"
+    ],
+    "tags": [
+      "基本統計量",
+      "データの記述"
+    ]
   }
 ]

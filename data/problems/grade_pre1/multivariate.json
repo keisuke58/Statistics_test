@@ -1,0 +1,362 @@
+[
+  {
+    "problem_id": "GP1_multi_001",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数50、変数数4のとき、最大主成分数は？",
+    "options": [
+      "4",
+      "50",
+      "4",
+      "54"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(50, 4) = 4",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_002",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数81、変数数4のとき、最大主成分数は？",
+    "options": [
+      "4",
+      "81",
+      "4",
+      "85"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(81, 4) = 4",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_003",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数160、変数数5のとき、最大主成分数は？",
+    "options": [
+      "5",
+      "160",
+      "5",
+      "165"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(160, 5) = 5",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_004",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数134、変数数3のとき、最大主成分数は？",
+    "options": [
+      "3",
+      "134",
+      "3",
+      "137"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(134, 3) = 3",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_005",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数115、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "115",
+      "9",
+      "124"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(115, 9) = 9",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_006",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数148、変数数3のとき、最大主成分数は？",
+    "options": [
+      "3",
+      "148",
+      "3",
+      "151"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(148, 3) = 3",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_007",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数197、変数数3のとき、最大主成分数は？",
+    "options": [
+      "3",
+      "197",
+      "3",
+      "200"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(197, 3) = 3",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_008",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数157、変数数3のとき、最大主成分数は？",
+    "options": [
+      "3",
+      "157",
+      "3",
+      "160"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(157, 3) = 3",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_009",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数175、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "175",
+      "9",
+      "184"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(175, 9) = 9",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_010",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数161、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "161",
+      "9",
+      "170"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(161, 9) = 9",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_011",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数192、変数数3のとき、最大主成分数は？",
+    "options": [
+      "3",
+      "192",
+      "3",
+      "195"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(192, 3) = 3",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_012",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数86、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "86",
+      "9",
+      "95"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(86, 9) = 9",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_013",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数113、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "113",
+      "6",
+      "119"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(113, 6) = 6",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_014",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数159、変数数4のとき、最大主成分数は？",
+    "options": [
+      "4",
+      "159",
+      "4",
+      "163"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(159, 4) = 4",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_015",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数85、変数数10のとき、最大主成分数は？",
+    "options": [
+      "10",
+      "85",
+      "10",
+      "95"
+    ],
+    "correct_answer": 2,
+    "explanation": "主成分数は変数数とサンプル数の小さい方以下。最大主成分数 = min(85, 10) = 10",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  }
+]

@@ -44,8 +44,9 @@ class ProblemManager:
                         loaded = load_json(file_path)
                         if isinstance(loaded, list):
                             problems.extend(loaded)
-                        else:
-                            st.error(f"⚠️ ファイル形式エラー: {file_path} はリストではありません")
+                        elif loaded:
+                            # リストでない場合は警告を出してスキップ
+                            st.warning(f"⚠️ ファイル形式エラー: {file_path} はリストではありません（型: {type(loaded)}）")
                     except Exception as e:
                         st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
                 else:
@@ -60,8 +61,9 @@ class ProblemManager:
                         loaded = load_json(file_path)
                         if isinstance(loaded, list):
                             problems.extend(loaded)
-                        else:
-                            st.error(f"⚠️ ファイル形式エラー: {file_path} はリストではありません")
+                        elif loaded:
+                            # リストでない場合は警告を出してスキップ
+                            st.warning(f"⚠️ ファイル形式エラー: {file_path} はリストではありません（型: {type(loaded)}）")
                     except Exception as e:
                         st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
         except Exception as e:

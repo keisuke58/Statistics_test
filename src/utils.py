@@ -17,19 +17,27 @@ def load_json(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-            # 空のリストやNoneの場合は空リストを返す
+            # Noneの場合は空リストを返す（問題データ用）
             if data is None:
                 return []
-            return data if isinstance(data, list) else [data]
+            # そのまま返す（設定ファイルなどは辞書のまま）
+            return data
     except FileNotFoundError:
+        # 問題データの場合は空リスト、それ以外はNone
         return []
     except json.JSONDecodeError as e:
         import streamlit as st
-        st.error(f"⚠️ JSON解析エラー ({file_path}): {str(e)}")
+        try:
+            st.error(f"⚠️ JSON解析エラー ({file_path}): {str(e)}")
+        except:
+            print(f"JSON解析エラー ({file_path}): {str(e)}")
         return []
     except Exception as e:
         import streamlit as st
-        st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
+        try:
+            st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
+        except:
+            print(f"ファイル読み込みエラー ({file_path}): {str(e)}")
         return []
 
 

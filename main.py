@@ -128,7 +128,27 @@ elif page == "問題練習":
         )
         
         if not problems:
-            st.warning("問題が見つかりませんでした。")
+            st.error("❌ 問題が見つかりませんでした。")
+            # デバッグ情報を表示
+            with st.expander("🔍 デバッグ情報"):
+                all_problems = st.session_state.problem_manager.load_problems(grade, selected_category)
+                st.write(f"**読み込まれた問題数**: {len(all_problems)}")
+                st.write(f"**級**: {grade}")
+                st.write(f"**分野**: {selected_category or '全分野'}")
+                st.write(f"**難易度**: {selected_difficulty or '全て'}")
+                st.write(f"**問題ディレクトリ**: {st.session_state.problem_manager.problems_dir}")
+                
+                # ディレクトリの存在確認
+                grade_dir_name = {"2": "grade2", "pre1": "grade_pre1", "1": "grade1"}.get(grade, f"grade{grade}")
+                grade_dir = st.session_state.problem_manager.problems_dir / grade_dir_name
+                st.write(f"**級ディレクトリ**: {grade_dir}")
+                st.write(f"**ディレクトリ存在**: {grade_dir.exists()}")
+                
+                if grade_dir.exists():
+                    json_files = list(grade_dir.glob("*.json"))
+                    st.write(f"**JSONファイル数**: {len(json_files)}")
+                    for f in json_files:
+                        st.write(f"  - {f.name}")
         else:
             st.session_state["practice_problems"] = problems
             st.session_state["practice_index"] = 0

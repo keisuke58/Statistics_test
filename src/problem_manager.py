@@ -27,18 +27,45 @@ class ProblemManager:
         grade_dir_name = {"2": "grade2", "pre1": "grade_pre1", "1": "grade1"}.get(grade, f"grade{grade}")
         grade_dir = self.problems_dir / grade_dir_name
         
+        # デバッグ情報
+        import streamlit as st
         if not grade_dir.exists():
+            st.warning(f"⚠️ ディレクトリが見つかりません: {grade_dir}")
+            st.info(f"プロジェクトルート: {self.root}")
+            st.info(f"問題ディレクトリ: {self.problems_dir}")
             return problems
         
-        if category:
-            # 特定のカテゴリのみ
-            file_path = grade_dir / f"{category}.json"
-            if file_path.exists():
-                problems.extend(load_json(file_path))
-        else:
-            # 全カテゴリ
-            for file_path in grade_dir.glob("*.json"):
-                problems.extend(load_json(file_path))
+        try:
+            if category:
+                # 特定のカテゴリのみ
+                file_path = grade_dir / f"{category}.json"
+                if file_path.exists():
+                    try:
+                        loaded = load_json(file_path)
+                        if isinstance(loaded, list):
+                            problems.extend(loaded)
+                        else:
+                            st.error(f"⚠️ ファイル形式エラー: {file_path} はリストではありません")
+                    except Exception as e:
+                        st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
+                else:
+                    st.warning(f"⚠️ ファイルが見つかりません: {file_path}")
+            else:
+                # 全カテゴリ
+                json_files = list(grade_dir.glob("*.json"))
+                if not json_files:
+                    st.warning(f"⚠️ JSONファイルが見つかりません: {grade_dir}")
+                for file_path in json_files:
+                    try:
+                        loaded = load_json(file_path)
+                        if isinstance(loaded, list):
+                            problems.extend(loaded)
+                        else:
+                            st.error(f"⚠️ ファイル形式エラー: {file_path} はリストではありません")
+                    except Exception as e:
+                        st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
+        except Exception as e:
+            st.error(f"⚠️ 問題読み込み中にエラーが発生しました: {str(e)}")
         
         self.problems_cache[cache_key] = problems
         return problems

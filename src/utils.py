@@ -14,8 +14,23 @@ def get_project_root():
 
 def load_json(file_path):
     """JSONファイルを読み込む"""
-    with open(file_path, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            # 空のリストやNoneの場合は空リストを返す
+            if data is None:
+                return []
+            return data if isinstance(data, list) else [data]
+    except FileNotFoundError:
+        return []
+    except json.JSONDecodeError as e:
+        import streamlit as st
+        st.error(f"⚠️ JSON解析エラー ({file_path}): {str(e)}")
+        return []
+    except Exception as e:
+        import streamlit as st
+        st.error(f"⚠️ ファイル読み込みエラー ({file_path}): {str(e)}")
+        return []
 
 
 def save_json(data, file_path):

@@ -358,5 +358,2705 @@
       "統計応用",
       "実践"
     ]
+  },
+  {
+    "problem_id": "G1_app_0001",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0002",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0003",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0004",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0005",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0006",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0007",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0008",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0009",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0010",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0011",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0012",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0013",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0014",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0015",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0016",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0017",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0018",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0019",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0020",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0021",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0022",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0023",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0024",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0025",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0026",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0027",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0028",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0029",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0030",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0031",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0032",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0033",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0034",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0035",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0036",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0037",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0038",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0039",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0040",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0041",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0042",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0043",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0044",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0045",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0046",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0047",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0048",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0049",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0050",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0051",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0052",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0053",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0054",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0055",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0056",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0057",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0058",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0059",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0060",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0061",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0062",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0063",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0064",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0065",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0066",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0067",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0068",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0069",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0070",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0071",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0072",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0073",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0074",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0075",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0076",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0077",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0078",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0079",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0080",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0081",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0082",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0083",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0084",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0085",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0086",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0087",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0088",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0089",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0090",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0091",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0092",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0093",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0094",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0095",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0096",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0097",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0098",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0099",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0100",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0101",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0102",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0103",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0104",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0105",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0106",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0107",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0108",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0109",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0110",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0111",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0112",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0113",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0114",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0115",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0116",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0117",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0118",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0119",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0120",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0121",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0122",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0123",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0124",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0125",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0126",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0127",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0128",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0129",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0130",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0131",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0132",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0133",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0134",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0135",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0136",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0137",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0138",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0139",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0140",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0141",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0142",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "生存時間解析におけるハザード関数の意味を説明せよ。",
+    "correct_answer": "ハザード関数は、時点tまで生存していた場合に、その直後にイベントが発生する瞬間的な確率を表す。",
+    "explanation": "ハザード関数h(t)は、h(t) = lim(Δt→0) P(t ≤ T < t+Δt | T ≥ t) / Δt で定義される。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0143",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0144",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0145",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0146",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0147",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ロジスティック回帰分析におけるオッズ比の解釈を説明せよ。",
+    "correct_answer": "オッズ比は、説明変数が1単位増加したとき、目的変数が1になるオッズが何倍になるかを示す。",
+    "explanation": "オッズ比が2.0の場合、説明変数が1単位増加すると、目的変数が1になるオッズが2倍になることを意味する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0148",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "実験計画法における完全無作為化法と乱塊法の違いを説明せよ。",
+    "correct_answer": "完全無作為化法は全ての処理を完全にランダムに割り当てる。乱塊法はブロック内でランダムに割り当て、ブロック間の変動を制御する。",
+    "explanation": "完全無作為化法は単純だが、ブロック効果を考慮しない。乱塊法はブロックを設けることで、ブロック間の変動を除去し、より精密な検定が可能。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0149",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
+  },
+  {
+    "problem_id": "G1_app_0150",
+    "grade": "1",
+    "category": "statistics_applied",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "question": "ベイズ統計における事前分布の選択について説明せよ。",
+    "correct_answer": "事前分布は、事前知識を反映する分布を選択する。共役事前分布を使うと計算が容易になる。",
+    "explanation": "事前分布の選択は、事前知識の有無、計算の容易さ、解釈のしやすさなどを考慮して決定する。",
+    "formulas_used": [
+      "experimental_design",
+      "logistic_regression"
+    ],
+    "tags": [
+      "統計応用",
+      "実践"
+    ]
   }
 ]

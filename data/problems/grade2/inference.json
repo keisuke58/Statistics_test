@@ -598,5 +598,3605 @@
       "推測統計",
       "信頼区間"
     ]
+  },
+  {
+    "problem_id": "G2_inf_0001",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ24、標本平均57.1、標準偏差9.5のとき、標準誤差は？",
+    "options": [
+      "1.942",
+      "9.514",
+      "57.110",
+      "24.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 9.5 / √24 = 1.942",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0002",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ146、標本平均87.6、標準偏差17.9のとき、標準誤差は？",
+    "options": [
+      "1.485",
+      "17.944",
+      "87.632",
+      "146.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 17.9 / √146 = 1.485",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0003",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ119、標本平均80.9、標準偏差20.8のとき、標準誤差は？",
+    "options": [
+      "1.904",
+      "20.774",
+      "80.862",
+      "119.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 20.8 / √119 = 1.904",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0004",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ167、標本平均86.0、標準偏差10.1のとき、標準誤差は？",
+    "options": [
+      "0.782",
+      "10.108",
+      "86.042",
+      "167.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 10.1 / √167 = 0.782",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0005",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ193、標本平均79.9、標準偏差8.9のとき、標準誤差は？",
+    "options": [
+      "0.640",
+      "8.889",
+      "79.880",
+      "193.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 8.9 / √193 = 0.640",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0006",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ175、標本平均55.0、標準偏差6.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "1.85",
+      "0.92",
+      "12.21",
+      "2.75"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.471 = 1.85",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0007",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ41、標本平均83.6、標準偏差5.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.20",
+      "1.60",
+      "10.26",
+      "4.18"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.817 = 3.20",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0008",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ102、標本平均76.1、標準偏差24.4のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "9.49",
+      "4.74",
+      "47.91",
+      "3.80"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.420 = 9.49",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0009",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ80、標本平均91.8、標準偏差13.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.71",
+      "2.86",
+      "25.56",
+      "4.59"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.458 = 5.71",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0010",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ98、標本平均59.8、標準偏差5.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.31",
+      "1.16",
+      "11.43",
+      "2.99"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.589 = 2.31",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0011",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ176、標本平均95.1、標準偏差22.8のとき、標準誤差は？",
+    "options": [
+      "1.722",
+      "22.846",
+      "95.102",
+      "176.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 22.8 / √176 = 1.722",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0012",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ31、標本平均98.0、標準偏差16.8のとき、標準誤差は？",
+    "options": [
+      "3.015",
+      "16.786",
+      "97.960",
+      "31.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 16.8 / √31 = 3.015",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0013",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ167、標本平均94.4、標準偏差19.1のとき、標準誤差は？",
+    "options": [
+      "1.481",
+      "19.138",
+      "94.440",
+      "167.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 19.1 / √167 = 1.481",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0014",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ31、標本平均94.5、標準偏差10.6のとき、標準誤差は？",
+    "options": [
+      "1.900",
+      "10.581",
+      "94.457",
+      "31.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 10.6 / √31 = 1.900",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0015",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ128、標本平均94.5、標準偏差23.1のとき、標準誤差は？",
+    "options": [
+      "2.042",
+      "23.105",
+      "94.537",
+      "128.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 23.1 / √128 = 2.042",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0016",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ160、標本平均86.2、標準偏差7.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.25",
+      "1.12",
+      "14.23",
+      "4.31"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.574 = 2.25",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0017",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ29、標本平均62.7、標準偏差12.0のとき、標準誤差は？",
+    "options": [
+      "2.222",
+      "11.966",
+      "62.729",
+      "29.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 12.0 / √29 = 2.222",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0018",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ103、標本平均80.5、標準偏差15.3のとき、標準誤差は？",
+    "options": [
+      "1.506",
+      "15.280",
+      "80.476",
+      "103.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 15.3 / √103 = 1.506",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0019",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ126、標本平均95.5、標準偏差17.6のとき、標準誤差は？",
+    "options": [
+      "1.572",
+      "17.642",
+      "95.501",
+      "126.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 17.6 / √126 = 1.572",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0020",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ99、標本平均86.7、標準偏差14.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.64",
+      "2.82",
+      "28.06",
+      "4.33"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.439 = 5.64",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0021",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ187、標本平均61.1、標準偏差9.0のとき、標準誤差は？",
+    "options": [
+      "0.657",
+      "8.981",
+      "61.122",
+      "187.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 9.0 / √187 = 0.657",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0022",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ186、標本平均87.3、標準偏差10.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.05",
+      "1.53",
+      "20.82",
+      "4.37"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.779 = 3.05",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0023",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ31、標本平均77.9、標準偏差11.6のとき、標準誤差は？",
+    "options": [
+      "2.077",
+      "11.562",
+      "77.892",
+      "31.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.6 / √31 = 2.077",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0024",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ49、標本平均98.4、標準偏差22.3のとき、標準誤差は？",
+    "options": [
+      "3.179",
+      "22.254",
+      "98.431",
+      "49.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 22.3 / √49 = 3.179",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0025",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ136、標本平均88.9、標準偏差6.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.18",
+      "1.09",
+      "12.70",
+      "4.44"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.555 = 2.18",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0026",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ137、標本平均51.1、標準偏差12.7のとき、標準誤差は？",
+    "options": [
+      "1.088",
+      "12.735",
+      "51.100",
+      "137.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 12.7 / √137 = 1.088",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0027",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ153、標本平均59.6、標準偏差18.4のとき、標準誤差は？",
+    "options": [
+      "1.491",
+      "18.443",
+      "59.599",
+      "153.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 18.4 / √153 = 1.491",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0028",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ112、標本平均64.8、標準偏差18.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "6.95",
+      "3.48",
+      "36.80",
+      "3.24"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.774 = 6.95",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0029",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ105、標本平均79.6、標準偏差19.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.39",
+      "3.69",
+      "37.84",
+      "3.98"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.884 = 7.39",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0030",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ105、標本平均88.3、標準偏差13.1のとき、標準誤差は？",
+    "options": [
+      "1.280",
+      "13.119",
+      "88.342",
+      "105.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 13.1 / √105 = 1.280",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0031",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ156、標本平均57.8、標準偏差10.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.30",
+      "1.65",
+      "20.59",
+      "2.89"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.841 = 3.30",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0032",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ66、標本平均84.0、標準偏差23.4のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "11.27",
+      "5.64",
+      "45.78",
+      "4.20"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.875 = 11.27",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0033",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ99、標本平均57.1、標準偏差9.4のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.72",
+      "1.86",
+      "18.49",
+      "2.86"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.948 = 3.72",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0034",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ89、標本平均59.6、標準偏差12.9のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.38",
+      "2.69",
+      "25.37",
+      "2.98"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.372 = 5.38",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0035",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ54、標本平均85.8、標準偏差21.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "11.25",
+      "5.62",
+      "41.32",
+      "4.29"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.869 = 11.25",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0036",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ121、標本平均90.5、標準偏差14.1のとき、標準誤差は？",
+    "options": [
+      "1.285",
+      "14.132",
+      "90.528",
+      "121.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 14.1 / √121 = 1.285",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0037",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ163、標本平均67.3、標準偏差16.5のとき、標準誤差は？",
+    "options": [
+      "1.293",
+      "16.511",
+      "67.336",
+      "163.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 16.5 / √163 = 1.293",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0038",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ44、標本平均78.6、標準偏差9.4のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.53",
+      "2.76",
+      "18.33",
+      "3.93"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.410 = 5.53",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0039",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ196、標本平均78.5、標準偏差6.0のとき、標準誤差は？",
+    "options": [
+      "0.432",
+      "6.041",
+      "78.537",
+      "196.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 6.0 / √196 = 0.432",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0040",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ97、標本平均78.1、標準偏差24.2のとき、標準誤差は？",
+    "options": [
+      "2.455",
+      "24.180",
+      "78.105",
+      "97.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 24.2 / √97 = 2.455",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0041",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ50、標本平均87.1、標準偏差6.4のとき、標準誤差は？",
+    "options": [
+      "0.908",
+      "6.423",
+      "87.140",
+      "50.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 6.4 / √50 = 0.908",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0042",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ148、標本平均74.9、標準偏差11.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.57",
+      "1.78",
+      "21.69",
+      "3.75"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.909 = 3.57",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0043",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ154、標本平均67.4、標準偏差19.4のとき、標準誤差は？",
+    "options": [
+      "1.567",
+      "19.444",
+      "67.380",
+      "154.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 19.4 / √154 = 1.567",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0044",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ24、標本平均67.4、標準偏差8.3のとき、標準誤差は？",
+    "options": [
+      "1.699",
+      "8.326",
+      "67.382",
+      "24.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 8.3 / √24 = 1.699",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0045",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ40、標本平均69.1、標準偏差17.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "10.83",
+      "5.41",
+      "34.23",
+      "3.46"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.762 = 10.83",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0046",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ146、標本平均58.5、標準偏差17.1のとき、標準誤差は？",
+    "options": [
+      "1.413",
+      "17.079",
+      "58.495",
+      "146.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 17.1 / √146 = 1.413",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0047",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ190、標本平均92.5、標準偏差24.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "6.87",
+      "3.44",
+      "47.38",
+      "4.63"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.754 = 6.87",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0048",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ41、標本平均79.4、標準偏差23.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "14.46",
+      "7.23",
+      "46.30",
+      "3.97"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 3.689 = 14.46",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0049",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ163、標本平均63.3、標準偏差20.7のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "6.36",
+      "3.18",
+      "40.61",
+      "3.17"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.623 = 6.36",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0050",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ55、標本平均64.0、標準偏差14.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.66",
+      "3.83",
+      "28.39",
+      "3.20"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.953 = 7.66",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0051",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ131、標本平均53.3、標準偏差20.9のとき、標準誤差は？",
+    "options": [
+      "1.824",
+      "20.875",
+      "53.260",
+      "131.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 20.9 / √131 = 1.824",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0052",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ134、標本平均94.3、標準偏差15.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.34",
+      "2.67",
+      "30.92",
+      "4.72"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.363 = 5.34",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0053",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ75、標本平均82.3、標準偏差21.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "9.52",
+      "4.76",
+      "41.24",
+      "4.11"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.430 = 9.52",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0054",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ32、標本平均70.8、標準偏差21.9のとき、標準誤差は？",
+    "options": [
+      "3.867",
+      "21.874",
+      "70.842",
+      "32.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 21.9 / √32 = 3.867",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0055",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ35、標本平均53.6、標準偏差8.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.32",
+      "2.66",
+      "15.75",
+      "2.68"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.358 = 5.32",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0056",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ37、標本平均87.5、標準偏差10.2のとき、標準誤差は？",
+    "options": [
+      "1.671",
+      "10.166",
+      "87.466",
+      "37.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 10.2 / √37 = 1.671",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0057",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ65、標本平均95.3、標準偏差14.9のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.26",
+      "3.63",
+      "29.28",
+      "4.77"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.853 = 7.26",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0058",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ29、標本平均60.6、標準偏差11.2のとき、標準誤差は？",
+    "options": [
+      "2.072",
+      "11.159",
+      "60.625",
+      "29.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.2 / √29 = 2.072",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0059",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ181、標本平均71.6、標準偏差13.2のとき、標準誤差は？",
+    "options": [
+      "0.983",
+      "13.230",
+      "71.631",
+      "181.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 13.2 / √181 = 0.983",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0060",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ154、標本平均56.5、標準偏差22.7のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.17",
+      "3.59",
+      "44.49",
+      "2.82"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.829 = 7.17",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0061",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ24、標本平均76.3、標準偏差11.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "9.02",
+      "4.51",
+      "22.09",
+      "3.82"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.300 = 9.02",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0062",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ93、標本平均76.4、標準偏差16.8のとき、標準誤差は？",
+    "options": [
+      "1.742",
+      "16.803",
+      "76.384",
+      "93.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 16.8 / √93 = 1.742",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0063",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ103、標本平均75.1、標準偏差18.6のとき、標準誤差は？",
+    "options": [
+      "1.833",
+      "18.605",
+      "75.087",
+      "103.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 18.6 / √103 = 1.833",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0064",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ190、標本平均70.9、標準偏差7.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.14",
+      "1.07",
+      "14.76",
+      "3.54"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.546 = 2.14",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0065",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ151、標本平均62.6、標準偏差5.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "1.78",
+      "0.89",
+      "10.96",
+      "3.13"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.455 = 1.78",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0066",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ169、標本平均92.1、標準偏差17.9のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.40",
+      "2.70",
+      "35.08",
+      "4.60"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.377 = 5.40",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0067",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ37、標本平均72.7、標準偏差20.7のとき、標準誤差は？",
+    "options": [
+      "3.407",
+      "20.722",
+      "72.662",
+      "37.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 20.7 / √37 = 3.407",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0068",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ111、標本平均86.1、標準偏差22.8のとき、標準誤差は？",
+    "options": [
+      "2.161",
+      "22.766",
+      "86.128",
+      "111.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 22.8 / √111 = 2.161",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0069",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ185、標本平均57.0、標準偏差17.4のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.02",
+      "2.51",
+      "34.16",
+      "2.85"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.281 = 5.02",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0070",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ104、標本平均93.9、標準偏差10.1のとき、標準誤差は？",
+    "options": [
+      "0.994",
+      "10.140",
+      "93.896",
+      "104.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 10.1 / √104 = 0.994",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0071",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ195、標本平均93.5、標準偏差15.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "4.20",
+      "2.10",
+      "29.35",
+      "4.68"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.072 = 4.20",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0072",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ53、標本平均60.3、標準偏差16.9のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "9.11",
+      "4.55",
+      "33.15",
+      "3.01"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.323 = 9.11",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0073",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ180、標本平均86.4、標準偏差16.2のとき、標準誤差は？",
+    "options": [
+      "1.206",
+      "16.185",
+      "86.352",
+      "180.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 16.2 / √180 = 1.206",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0074",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ160、標本平均86.0、標準偏差12.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.97",
+      "1.98",
+      "25.08",
+      "4.30"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.012 = 3.97",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0075",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ118、標本平均93.0、標準偏差7.5のとき、標準誤差は？",
+    "options": [
+      "0.687",
+      "7.463",
+      "93.008",
+      "118.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 7.5 / √118 = 0.687",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0076",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ109、標本平均60.8、標準偏差11.0のとき、標準誤差は？",
+    "options": [
+      "1.050",
+      "10.965",
+      "60.814",
+      "109.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.0 / √109 = 1.050",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0077",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ33、標本平均98.3、標準偏差15.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "10.66",
+      "5.33",
+      "30.62",
+      "4.91"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.720 = 10.66",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0078",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ177、標本平均96.3、標準偏差23.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "6.78",
+      "3.39",
+      "45.12",
+      "4.81"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.730 = 6.78",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0079",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ23、標本平均94.7、標準偏差14.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "11.65",
+      "5.83",
+      "27.94",
+      "4.73"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.972 = 11.65",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0080",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ180、標本平均74.0、標準偏差14.8のとき、標準誤差は？",
+    "options": [
+      "1.106",
+      "14.835",
+      "73.981",
+      "180.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 14.8 / √180 = 1.106",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0081",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ197、標本平均90.6、標準偏差13.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.68",
+      "1.84",
+      "25.81",
+      "4.53"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.938 = 3.68",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0082",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ148、標本平均85.7、標準偏差16.6のとき、標準誤差は？",
+    "options": [
+      "1.362",
+      "16.573",
+      "85.744",
+      "148.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 16.6 / √148 = 1.362",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0083",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ153、標本平均82.0、標準偏差23.7のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.52",
+      "3.76",
+      "46.52",
+      "4.10"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.919 = 7.52",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0084",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ87、標本平均80.3、標準偏差5.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.37",
+      "1.19",
+      "11.07",
+      "4.02"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.605 = 2.37",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0085",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ79、標本平均57.7、標準偏差17.9のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.91",
+      "3.95",
+      "35.13",
+      "2.88"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.017 = 7.91",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0086",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ194、標本平均51.6、標準偏差10.9のとき、標準誤差は？",
+    "options": [
+      "0.781",
+      "10.873",
+      "51.586",
+      "194.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 10.9 / √194 = 0.781",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0087",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ166、標本平均57.9、標準偏差15.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "4.56",
+      "2.28",
+      "29.40",
+      "2.90"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.164 = 4.56",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0088",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ111、標本平均66.0、標準偏差24.5のとき、標準誤差は？",
+    "options": [
+      "2.326",
+      "24.501",
+      "66.047",
+      "111.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 24.5 / √111 = 2.326",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0089",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ114、標本平均71.8、標準偏差20.4のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.49",
+      "3.75",
+      "40.00",
+      "3.59"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.911 = 7.49",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0090",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ121、標本平均98.7、標準偏差13.0のとき、標準誤差は？",
+    "options": [
+      "1.185",
+      "13.034",
+      "98.685",
+      "121.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 13.0 / √121 = 1.185",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0091",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ30、標本平均95.4、標準偏差19.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "13.93",
+      "6.96",
+      "38.14",
+      "4.77"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 3.552 = 13.93",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0092",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ136、標本平均64.9、標準偏差6.7のとき、標準誤差は？",
+    "options": [
+      "0.572",
+      "6.672",
+      "64.933",
+      "136.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 6.7 / √136 = 0.572",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0093",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ30、標本平均55.1、標準偏差17.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "12.77",
+      "6.39",
+      "34.99",
+      "2.76"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 3.259 = 12.77",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0094",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ137、標本平均85.6、標準偏差11.5のとき、標準誤差は？",
+    "options": [
+      "0.981",
+      "11.483",
+      "85.553",
+      "137.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.5 / √137 = 0.981",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0095",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ23、標本平均64.7、標準偏差7.7のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "6.26",
+      "3.13",
+      "15.00",
+      "3.24"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.596 = 6.26",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0096",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ49、標本平均70.3、標準偏差18.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "10.43",
+      "5.21",
+      "36.49",
+      "3.51"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.660 = 10.43",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0097",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ21、標本平均61.6、標準偏差20.3のとき、標準誤差は？",
+    "options": [
+      "4.425",
+      "20.278",
+      "61.630",
+      "21.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 20.3 / √21 = 4.425",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0098",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ158、標本平均97.2、標準偏差16.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.03",
+      "2.52",
+      "31.63",
+      "4.86"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.284 = 5.03",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0099",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ136、標本平均83.7、標準偏差11.3のとき、標準誤差は？",
+    "options": [
+      "0.967",
+      "11.277",
+      "83.693",
+      "136.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.3 / √136 = 0.967",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0100",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ72、標本平均75.7、標準偏差10.7のとき、標準誤差は？",
+    "options": [
+      "1.265",
+      "10.733",
+      "75.739",
+      "72.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 10.7 / √72 = 1.265",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0101",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ171、標本平均91.7、標準偏差15.9のとき、標準誤差は？",
+    "options": [
+      "1.217",
+      "15.910",
+      "91.671",
+      "171.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 15.9 / √171 = 1.217",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0102",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ58、標本平均64.7、標準偏差19.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "9.87",
+      "4.93",
+      "37.58",
+      "3.24"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.518 = 9.87",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0103",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ22、標本平均98.8、標準偏差14.3のとき、標準誤差は？",
+    "options": [
+      "3.043",
+      "14.271",
+      "98.832",
+      "22.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 14.3 / √22 = 3.043",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0104",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ34、標本平均83.6、標準偏差8.1のとき、標準誤差は？",
+    "options": [
+      "1.383",
+      "8.066",
+      "83.618",
+      "34.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 8.1 / √34 = 1.383",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0105",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ154、標本平均63.5、標準偏差22.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.15",
+      "3.57",
+      "44.36",
+      "3.17"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.824 = 7.15",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0106",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ176、標本平均67.0、標準偏差17.4のとき、標準誤差は？",
+    "options": [
+      "1.311",
+      "17.394",
+      "67.026",
+      "176.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 17.4 / √176 = 1.311",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0107",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ55、標本平均74.7、標準偏差22.7のとき、標準誤差は？",
+    "options": [
+      "3.056",
+      "22.661",
+      "74.740",
+      "55.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 22.7 / √55 = 3.056",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0108",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ157、標本平均76.8、標準偏差13.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "4.16",
+      "2.08",
+      "26.09",
+      "3.84"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.062 = 4.16",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0109",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ126、標本平均55.0、標準偏差12.4のとき、標準誤差は？",
+    "options": [
+      "1.105",
+      "12.405",
+      "55.016",
+      "126.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 12.4 / √126 = 1.105",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0110",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ173、標本平均78.9、標準偏差7.9のとき、標準誤差は？",
+    "options": [
+      "0.598",
+      "7.869",
+      "78.891",
+      "173.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 7.9 / √173 = 0.598",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0111",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ95、標本平均67.0、標準偏差23.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "9.31",
+      "4.66",
+      "45.38",
+      "3.35"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.375 = 9.31",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0112",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ68、標本平均57.3、標準偏差9.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "4.49",
+      "2.25",
+      "18.52",
+      "2.87"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.146 = 4.49",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0113",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ158、標本平均92.2、標準偏差14.4のとき、標準誤差は？",
+    "options": [
+      "1.143",
+      "14.373",
+      "92.173",
+      "158.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 14.4 / √158 = 1.143",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0114",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ140、標本平均51.8、標準偏差8.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.70",
+      "1.35",
+      "15.95",
+      "2.59"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.688 = 2.70",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0115",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ109、標本平均60.3、標準偏差10.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.94",
+      "1.97",
+      "20.57",
+      "3.01"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.005 = 3.94",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0116",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ98、標本平均60.8、標準偏差14.6のとき、標準誤差は？",
+    "options": [
+      "1.477",
+      "14.619",
+      "60.820",
+      "98.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 14.6 / √98 = 1.477",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0117",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ185、標本平均93.6、標準偏差8.3のとき、標準誤差は？",
+    "options": [
+      "0.607",
+      "8.263",
+      "93.594",
+      "185.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 8.3 / √185 = 0.607",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0118",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ59、標本平均99.7、標準偏差19.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "10.02",
+      "5.01",
+      "38.48",
+      "4.98"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.556 = 10.02",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0119",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ173、標本平均86.0、標準偏差6.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "1.81",
+      "0.91",
+      "11.94",
+      "4.30"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.463 = 1.81",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0120",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ56、標本平均91.0、標準偏差13.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "6.84",
+      "3.42",
+      "25.60",
+      "4.55"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.746 = 6.84",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0121",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ32、標本平均57.9、標準偏差12.5のとき、標準誤差は？",
+    "options": [
+      "2.216",
+      "12.538",
+      "57.917",
+      "32.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 12.5 / √32 = 2.216",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0122",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ27、標本平均73.9、標準偏差6.9のとき、標準誤差は？",
+    "options": [
+      "1.329",
+      "6.907",
+      "73.868",
+      "27.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 6.9 / √27 = 1.329",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0123",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ189、標本平均99.0、標準偏差24.7のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.05",
+      "3.52",
+      "48.46",
+      "4.95"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.798 = 7.05",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0124",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ131、標本平均85.8、標準偏差16.5のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.65",
+      "2.83",
+      "32.35",
+      "4.29"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.442 = 5.65",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0125",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ35、標本平均61.1、標準偏差9.9のとき、標準誤差は？",
+    "options": [
+      "1.681",
+      "9.945",
+      "61.065",
+      "35.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 9.9 / √35 = 1.681",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0126",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ48、標本平均94.2、標準偏差13.8のとき、標準誤差は？",
+    "options": [
+      "1.994",
+      "13.813",
+      "94.236",
+      "48.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 13.8 / √48 = 1.994",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0127",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ73、標本平均90.6、標準偏差16.0のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.35",
+      "3.67",
+      "31.39",
+      "4.53"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.875 = 7.35",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0128",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ143、標本平均90.4、標準偏差23.5のとき、標準誤差は？",
+    "options": [
+      "1.968",
+      "23.529",
+      "90.360",
+      "143.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 23.5 / √143 = 1.968",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0129",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ35、標本平均81.6、標準偏差22.3のとき、標準誤差は？",
+    "options": [
+      "3.770",
+      "22.303",
+      "81.579",
+      "35.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 22.3 / √35 = 3.770",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0130",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ171、標本平均60.2、標準偏差20.0のとき、標準誤差は？",
+    "options": [
+      "1.531",
+      "20.027",
+      "60.206",
+      "171.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 20.0 / √171 = 1.531",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0131",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ62、標本平均77.0、標準偏差20.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "10.34",
+      "5.17",
+      "40.69",
+      "3.85"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.636 = 10.34",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0132",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ159、標本平均85.2、標準偏差17.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.46",
+      "2.73",
+      "34.44",
+      "4.26"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.394 = 5.46",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0133",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ196、標本平均66.3、標準偏差12.9のとき、標準誤差は？",
+    "options": [
+      "0.922",
+      "12.907",
+      "66.307",
+      "196.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 12.9 / √196 = 0.922",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0134",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ86、標本平均87.2、標準偏差18.8のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "7.97",
+      "3.98",
+      "36.94",
+      "4.36"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.032 = 7.97",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0135",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ74、標本平均66.1、標準偏差23.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "10.51",
+      "5.25",
+      "45.20",
+      "3.30"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.681 = 10.51",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0136",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ43、標本平均64.1、標準偏差24.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "14.44",
+      "7.22",
+      "47.36",
+      "3.21"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 3.685 = 14.44",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0137",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ154、標本平均68.9、標準偏差13.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "4.20",
+      "2.10",
+      "26.07",
+      "3.45"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.072 = 4.20",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0138",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ125、標本平均86.1、標準偏差21.9のとき、標準誤差は？",
+    "options": [
+      "1.956",
+      "21.868",
+      "86.125",
+      "125.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 21.9 / √125 = 1.956",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0139",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ186、標本平均85.9、標準偏差11.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "3.21",
+      "1.61",
+      "21.92",
+      "4.29"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.820 = 3.21",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0140",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ191、標本平均74.3、標準偏差11.2のとき、標準誤差は？",
+    "options": [
+      "0.809",
+      "11.180",
+      "74.251",
+      "191.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.2 / √191 = 0.809",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0141",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ167、標本平均99.2、標準偏差17.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.33",
+      "2.66",
+      "34.42",
+      "4.96"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.359 = 5.33",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0142",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ88、標本平均92.2、標準偏差14.5のとき、標準誤差は？",
+    "options": [
+      "1.544",
+      "14.486",
+      "92.236",
+      "88.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 14.5 / √88 = 1.544",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0143",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ171、標本平均72.1、標準偏差11.5のとき、標準誤差は？",
+    "options": [
+      "0.877",
+      "11.471",
+      "72.106",
+      "171.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 11.5 / √171 = 0.877",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0144",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ110、標本平均67.7、標準偏差5.3のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "1.99",
+      "1.00",
+      "10.46",
+      "3.38"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.509 = 1.99",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0145",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ135、標本平均84.4、標準偏差16.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "5.42",
+      "2.71",
+      "31.49",
+      "4.22"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 1.383 = 5.42",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0146",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ109、標本平均89.1、標準偏差6.1のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "2.28",
+      "1.14",
+      "11.90",
+      "4.45"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 0.582 = 2.28",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0147",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ182、標本平均66.9、標準偏差21.1のとき、標準誤差は？",
+    "options": [
+      "1.565",
+      "21.114",
+      "66.852",
+      "182.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 21.1 / √182 = 1.565",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0148",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ93、標本平均66.2、標準偏差21.2のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "8.62",
+      "4.31",
+      "41.57",
+      "3.31"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 2.199 = 8.62",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0149",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ21、標本平均55.5、標準偏差18.6のとき、95%信頼区間の幅は？（z=1.96）",
+    "options": [
+      "15.95",
+      "7.97",
+      "36.54",
+      "2.78"
+    ],
+    "correct_answer": 0,
+    "explanation": "信頼区間の幅 = 2 × z × 標準誤差 = 2 × 1.96 × 4.068 = 15.95",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
+  },
+  {
+    "problem_id": "G2_inf_0150",
+    "grade": "2",
+    "category": "inference",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "標本サイズ133、標本平均54.7、標準偏差9.6のとき、標準誤差は？",
+    "options": [
+      "0.831",
+      "9.578",
+      "54.663",
+      "133.000"
+    ],
+    "correct_answer": 0,
+    "explanation": "標準誤差 = 標準偏差 / √n = 9.6 / √133 = 0.831",
+    "formulas_used": [
+      "standard_error",
+      "confidence_interval"
+    ],
+    "tags": [
+      "推測統計",
+      "信頼区間"
+    ]
   }
 ]

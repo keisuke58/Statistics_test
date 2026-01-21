@@ -23,7 +23,9 @@ class KnowledgeBase:
         formulas = {}
         
         if grade:
-            file_path = self.formulas_dir / f"grade{grade}.json"
+            # 級名をファイル名に変換
+            grade_file_name = {"2": "grade2", "pre1": "gradepre1", "1": "grade1"}.get(grade, f"grade{grade}")
+            file_path = self.formulas_dir / f"{grade_file_name}.json"
             if file_path.exists():
                 formulas = load_json(file_path)
         else:
@@ -108,7 +110,9 @@ class KnowledgeBase:
         
         # 保存
         for grade, formulas in [("2", grade2_formulas), ("pre1", grade_pre1_formulas), ("1", grade1_formulas)]:
-            file_path = self.formulas_dir / f"grade{grade}.json"
+            # 級名をファイル名に変換
+            grade_file_name = {"2": "grade2", "pre1": "gradepre1", "1": "grade1"}.get(grade, f"grade{grade}")
+            file_path = self.formulas_dir / f"{grade_file_name}.json"
             if not file_path.exists():
                 from .utils import save_json
                 save_json(formulas, file_path)

@@ -103,7 +103,9 @@ elif page == "問題練習":
     
     # カテゴリの選択
     settings = load_json(Path(__file__).parent / "config" / "settings.json")
-    categories = settings["categories"].get(f"grade{grade}", [])
+    # 級名をカテゴリキーに変換
+    category_key = {"2": "grade2", "pre1": "grade_pre1", "1": "grade1"}.get(grade, f"grade{grade}")
+    categories = settings["categories"].get(category_key, [])
     category = st.selectbox("分野を選択", ["全分野"] + categories)
     
     # 問題数の設定

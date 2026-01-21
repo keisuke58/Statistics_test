@@ -23,7 +23,9 @@ class ProblemManager:
             return self.problems_cache[cache_key]
         
         problems = []
-        grade_dir = self.problems_dir / f"grade{grade}"
+        # 級名をディレクトリ名に変換
+        grade_dir_name = {"2": "grade2", "pre1": "grade_pre1", "1": "grade1"}.get(grade, f"grade{grade}")
+        grade_dir = self.problems_dir / grade_dir_name
         
         if not grade_dir.exists():
             return problems
@@ -44,8 +46,14 @@ class ProblemManager:
     def get_problem(self, problem_id: str) -> Optional[Dict]:
         """問題IDから問題を取得"""
         # 全級から検索
-        for grade_dir in self.problems_dir.iterdir():
-            if not grade_dir.is_dir():
+        grade_dirs = [
+            self.problems_dir / "grade2",
+            self.problems_dir / "grade_pre1",
+            self.problems_dir / "grade1"
+        ]
+        
+        for grade_dir in grade_dirs:
+            if not grade_dir.exists() or not grade_dir.is_dir():
                 continue
             
             for file_path in grade_dir.glob("*.json"):
@@ -57,7 +65,9 @@ class ProblemManager:
     
     def add_problem(self, problem: Dict, grade: str, category: str):
         """問題を追加"""
-        grade_dir = self.problems_dir / f"grade{grade}"
+        # 級名をディレクトリ名に変換
+        grade_dir_name = {"2": "grade2", "pre1": "grade_pre1", "1": "grade1"}.get(grade, f"grade{grade}")
+        grade_dir = self.problems_dir / grade_dir_name
         grade_dir.mkdir(parents=True, exist_ok=True)
         
         file_path = grade_dir / f"{category}.json"

@@ -520,5 +520,3605 @@
       "重回帰分析",
       "決定係数"
     ]
+  },
+  {
+    "problem_id": "GP1_reg_0001",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数137の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=137, k=6",
+      "n=137, k=7",
+      "n=136, k=6",
+      "n=138, k=6",
+      "n=137, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0002",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数193の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=193, k=6",
+      "n=193, k=7",
+      "n=192, k=6",
+      "n=194, k=6",
+      "n=193, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0003",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数86の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=86, k=6",
+      "n=86, k=7",
+      "n=85, k=6",
+      "n=87, k=6",
+      "n=86, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0004",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数164の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=164, k=5",
+      "n=164, k=6",
+      "n=163, k=5",
+      "n=165, k=5",
+      "n=164, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0005",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数168、説明変数数3、決定係数R²=0.951のとき、調整済み決定係数は？",
+    "options": [
+      "0.9497",
+      "0.9506",
+      "0.8556",
+      "1.0457",
+      "0.0494"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0006",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数276の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=276, k=5",
+      "n=276, k=6",
+      "n=275, k=5",
+      "n=277, k=5",
+      "n=276, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0007",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数104、説明変数数2、決定係数R²=0.635のとき、調整済み決定係数は？",
+    "options": [
+      "0.6277",
+      "0.6349",
+      "0.5714",
+      "0.6984",
+      "0.3651"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0008",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数237、説明変数数3、決定係数R²=0.630のとき、調整済み決定係数は？",
+    "options": [
+      "0.6249",
+      "0.6296",
+      "0.5667",
+      "0.6926",
+      "0.3704"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0009",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数224、説明変数数3、決定係数R²=0.782のとき、調整済み決定係数は？",
+    "options": [
+      "0.7794",
+      "0.7824",
+      "0.7041",
+      "0.8606",
+      "0.2176"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0010",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数193の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=193, k=2",
+      "n=193, k=3",
+      "n=192, k=2",
+      "n=194, k=2",
+      "n=193, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0011",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数34の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=34, k=3",
+      "n=34, k=4",
+      "n=33, k=3",
+      "n=35, k=3",
+      "n=34, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0012",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数104、説明変数数4、決定係数R²=0.678のとき、調整済み決定係数は？",
+    "options": [
+      "0.6645",
+      "0.6775",
+      "0.6098",
+      "0.7453",
+      "0.3225"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0013",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数208の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=208, k=3",
+      "n=208, k=4",
+      "n=207, k=3",
+      "n=209, k=3",
+      "n=208, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0014",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数81、説明変数数6、決定係数R²=0.607のとき、調整済み決定係数は？",
+    "options": [
+      "0.5748",
+      "0.6067",
+      "0.5460",
+      "0.6673",
+      "0.3933"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0015",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数218、説明変数数8、決定係数R²=0.567のとき、調整済み決定係数は？",
+    "options": [
+      "0.5500",
+      "0.5666",
+      "0.5099",
+      "0.6232",
+      "0.4334"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0016",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数240の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=240, k=2",
+      "n=240, k=3",
+      "n=239, k=2",
+      "n=241, k=2",
+      "n=240, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0017",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数54の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=54, k=6",
+      "n=54, k=7",
+      "n=53, k=6",
+      "n=55, k=6",
+      "n=54, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0018",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数179、説明変数数3、決定係数R²=0.663のとき、調整済み決定係数は？",
+    "options": [
+      "0.6577",
+      "0.6635",
+      "0.5971",
+      "0.7298",
+      "0.3365"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0019",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数43、説明変数数2、決定係数R²=0.821のとき、調整済み決定係数は？",
+    "options": [
+      "0.8123",
+      "0.8212",
+      "0.7391",
+      "0.9033",
+      "0.1788"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0020",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数175の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=175, k=3",
+      "n=175, k=4",
+      "n=174, k=3",
+      "n=176, k=3",
+      "n=175, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0021",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数209の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=209, k=5",
+      "n=209, k=6",
+      "n=208, k=5",
+      "n=210, k=5",
+      "n=209, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0022",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数35の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=35, k=2",
+      "n=35, k=3",
+      "n=34, k=2",
+      "n=36, k=2",
+      "n=35, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0023",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数221、説明変数数3、決定係数R²=0.430のとき、調整済み決定係数は？",
+    "options": [
+      "0.4220",
+      "0.4299",
+      "0.3869",
+      "0.4729",
+      "0.5701"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0024",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数193の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=193, k=7",
+      "n=193, k=8",
+      "n=192, k=7",
+      "n=194, k=7",
+      "n=193, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0025",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数242の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=242, k=7",
+      "n=242, k=8",
+      "n=241, k=7",
+      "n=243, k=7",
+      "n=242, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0026",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数134、説明変数数8、決定係数R²=0.659のとき、調整済み決定係数は？",
+    "options": [
+      "0.6370",
+      "0.6589",
+      "0.5930",
+      "0.7248",
+      "0.3411"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0027",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数111の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=111, k=4",
+      "n=111, k=5",
+      "n=110, k=4",
+      "n=112, k=4",
+      "n=111, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0028",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数51、説明変数数3、決定係数R²=0.375のとき、調整済み決定係数は？",
+    "options": [
+      "0.3356",
+      "0.3754",
+      "0.3379",
+      "0.4130",
+      "0.6246"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0029",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数45、説明変数数5、決定係数R²=0.787のとき、調整済み決定係数は？",
+    "options": [
+      "0.7600",
+      "0.7872",
+      "0.7085",
+      "0.8660",
+      "0.2128"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0030",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数199、説明変数数8、決定係数R²=0.376のとき、調整済み決定係数は？",
+    "options": [
+      "0.3499",
+      "0.3761",
+      "0.3385",
+      "0.4137",
+      "0.6239"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0031",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数93、説明変数数5、決定係数R²=0.357のとき、調整済み決定係数は？",
+    "options": [
+      "0.3201",
+      "0.3570",
+      "0.3213",
+      "0.3927",
+      "0.6430"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0032",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数157、説明変数数6、決定係数R²=0.693のとき、調整済み決定係数は？",
+    "options": [
+      "0.6809",
+      "0.6932",
+      "0.6239",
+      "0.7625",
+      "0.3068"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0033",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数195の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=195, k=6",
+      "n=195, k=7",
+      "n=194, k=6",
+      "n=196, k=6",
+      "n=195, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0034",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数201の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=201, k=5",
+      "n=201, k=6",
+      "n=200, k=5",
+      "n=202, k=5",
+      "n=201, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0035",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数240、説明変数数8、決定係数R²=0.361のとき、調整済み決定係数は？",
+    "options": [
+      "0.3391",
+      "0.3612",
+      "0.3251",
+      "0.3973",
+      "0.6388"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0036",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数156の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=156, k=3",
+      "n=156, k=4",
+      "n=155, k=3",
+      "n=157, k=3",
+      "n=156, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0037",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数119、説明変数数2、決定係数R²=0.367のとき、調整済み決定係数は？",
+    "options": [
+      "0.3564",
+      "0.3673",
+      "0.3306",
+      "0.4041",
+      "0.6327"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0038",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数96の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=96, k=4",
+      "n=96, k=5",
+      "n=95, k=4",
+      "n=97, k=4",
+      "n=96, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0039",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数175、説明変数数6、決定係数R²=0.857のとき、調整済み決定係数は？",
+    "options": [
+      "0.8518",
+      "0.8569",
+      "0.7712",
+      "0.9426",
+      "0.1431"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0040",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数183の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=183, k=5",
+      "n=183, k=6",
+      "n=182, k=5",
+      "n=184, k=5",
+      "n=183, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0041",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数246、説明変数数4、決定係数R²=0.952のとき、調整済み決定係数は？",
+    "options": [
+      "0.9514",
+      "0.9522",
+      "0.8570",
+      "1.0474",
+      "0.0478"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0042",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数213、説明変数数3、決定係数R²=0.452のとき、調整済み決定係数は？",
+    "options": [
+      "0.4443",
+      "0.4522",
+      "0.4069",
+      "0.4974",
+      "0.5478"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0043",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数273、説明変数数3、決定係数R²=0.377のとき、調整済み決定係数は？",
+    "options": [
+      "0.3702",
+      "0.3772",
+      "0.3394",
+      "0.4149",
+      "0.6228"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0044",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数142の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=142, k=6",
+      "n=142, k=7",
+      "n=141, k=6",
+      "n=143, k=6",
+      "n=142, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0045",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数92、説明変数数6、決定係数R²=0.726のとき、調整済み決定係数は？",
+    "options": [
+      "0.7071",
+      "0.7264",
+      "0.6538",
+      "0.7990",
+      "0.2736"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0046",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数250の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=250, k=4",
+      "n=250, k=5",
+      "n=249, k=4",
+      "n=251, k=4",
+      "n=250, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0047",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数232、説明変数数7、決定係数R²=0.439のとき、調整済み決定係数は？",
+    "options": [
+      "0.4211",
+      "0.4386",
+      "0.3948",
+      "0.4825",
+      "0.5614"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0048",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数149の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=149, k=4",
+      "n=149, k=5",
+      "n=148, k=4",
+      "n=150, k=4",
+      "n=149, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0049",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数121、説明変数数8、決定係数R²=0.409のとき、調整済み決定係数は？",
+    "options": [
+      "0.3670",
+      "0.4092",
+      "0.3683",
+      "0.4501",
+      "0.5908"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0050",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数251、説明変数数3、決定係数R²=0.399のとき、調整済み決定係数は？",
+    "options": [
+      "0.3922",
+      "0.3995",
+      "0.3595",
+      "0.4394",
+      "0.6005"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0051",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数268、説明変数数5、決定係数R²=0.656のとき、調整済み決定係数は？",
+    "options": [
+      "0.6494",
+      "0.6560",
+      "0.5904",
+      "0.7216",
+      "0.3440"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0052",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数85、説明変数数6、決定係数R²=0.714のとき、調整済み決定係数は？",
+    "options": [
+      "0.6916",
+      "0.7136",
+      "0.6423",
+      "0.7850",
+      "0.2864"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0053",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数131、説明変数数7、決定係数R²=0.482のとき、調整済み決定係数は？",
+    "options": [
+      "0.4530",
+      "0.4825",
+      "0.4342",
+      "0.5307",
+      "0.5175"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0054",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数178、説明変数数6、決定係数R²=0.666のとき、調整済み決定係数は？",
+    "options": [
+      "0.6548",
+      "0.6665",
+      "0.5998",
+      "0.7331",
+      "0.3335"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0055",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数162、説明変数数3、決定係数R²=0.398のとき、調整済み決定係数は？",
+    "options": [
+      "0.3866",
+      "0.3980",
+      "0.3582",
+      "0.4378",
+      "0.6020"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0056",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数152の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=152, k=8",
+      "n=152, k=9",
+      "n=151, k=8",
+      "n=153, k=8",
+      "n=152, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0057",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数189、説明変数数4、決定係数R²=0.587のとき、調整済み決定係数は？",
+    "options": [
+      "0.5776",
+      "0.5865",
+      "0.5279",
+      "0.6452",
+      "0.4135"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0058",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数140の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=140, k=3",
+      "n=140, k=4",
+      "n=139, k=3",
+      "n=141, k=3",
+      "n=140, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0059",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数228の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=228, k=4",
+      "n=228, k=5",
+      "n=227, k=4",
+      "n=229, k=4",
+      "n=228, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0060",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数134、説明変数数8、決定係数R²=0.593のとき、調整済み決定係数は？",
+    "options": [
+      "0.5670",
+      "0.5930",
+      "0.5337",
+      "0.6523",
+      "0.4070"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0061",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数276の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=276, k=7",
+      "n=276, k=8",
+      "n=275, k=7",
+      "n=277, k=7",
+      "n=276, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0062",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数255、説明変数数6、決定係数R²=0.980のとき、調整済み決定係数は？",
+    "options": [
+      "0.9792",
+      "0.9797",
+      "0.8817",
+      "1.0777",
+      "0.0203"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0063",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数142の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=142, k=7",
+      "n=142, k=8",
+      "n=141, k=7",
+      "n=143, k=7",
+      "n=142, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0064",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数60の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=60, k=2",
+      "n=60, k=3",
+      "n=59, k=2",
+      "n=61, k=2",
+      "n=60, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0065",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数116の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=116, k=3",
+      "n=116, k=4",
+      "n=115, k=3",
+      "n=117, k=3",
+      "n=116, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0066",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数155の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=155, k=4",
+      "n=155, k=5",
+      "n=154, k=4",
+      "n=156, k=4",
+      "n=155, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0067",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数121、説明変数数2、決定係数R²=0.740のとき、調整済み決定係数は？",
+    "options": [
+      "0.7354",
+      "0.7398",
+      "0.6658",
+      "0.8138",
+      "0.2602"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0068",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数31、説明変数数5、決定係数R²=0.820のとき、調整済み決定係数は？",
+    "options": [
+      "0.7837",
+      "0.8197",
+      "0.7378",
+      "0.9017",
+      "0.1803"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0069",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数122の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=122, k=8",
+      "n=122, k=9",
+      "n=121, k=8",
+      "n=123, k=8",
+      "n=122, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0070",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数222の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=222, k=7",
+      "n=222, k=8",
+      "n=221, k=7",
+      "n=223, k=7",
+      "n=222, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0071",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数56の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=56, k=8",
+      "n=56, k=9",
+      "n=55, k=8",
+      "n=57, k=8",
+      "n=56, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0072",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数287、説明変数数3、決定係数R²=0.980のとき、調整済み決定係数は？",
+    "options": [
+      "0.9797",
+      "0.9799",
+      "0.8819",
+      "1.0779",
+      "0.0201"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0073",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数207、説明変数数4、決定係数R²=0.650のとき、調整済み決定係数は？",
+    "options": [
+      "0.6426",
+      "0.6495",
+      "0.5846",
+      "0.7145",
+      "0.3505"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0074",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数184の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=184, k=7",
+      "n=184, k=8",
+      "n=183, k=7",
+      "n=185, k=7",
+      "n=184, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0075",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数284、説明変数数8、決定係数R²=0.737のとき、調整済み決定係数は？",
+    "options": [
+      "0.7294",
+      "0.7370",
+      "0.6633",
+      "0.8107",
+      "0.2630"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0076",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数106の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=106, k=2",
+      "n=106, k=3",
+      "n=105, k=2",
+      "n=107, k=2",
+      "n=106, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0077",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数43、説明変数数6、決定係数R²=0.420のとき、調整済み決定係数は？",
+    "options": [
+      "0.3230",
+      "0.4197",
+      "0.3778",
+      "0.4617",
+      "0.5803"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0078",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数214の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=214, k=6",
+      "n=214, k=7",
+      "n=213, k=6",
+      "n=215, k=6",
+      "n=214, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0079",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数288、説明変数数3、決定係数R²=0.730のとき、調整済み決定係数は？",
+    "options": [
+      "0.7274",
+      "0.7302",
+      "0.6572",
+      "0.8033",
+      "0.2698"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0080",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数55、説明変数数3、決定係数R²=0.649のとき、調整済み決定係数は？",
+    "options": [
+      "0.6284",
+      "0.6491",
+      "0.5842",
+      "0.7140",
+      "0.3509"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0081",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数147の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=147, k=8",
+      "n=147, k=9",
+      "n=146, k=8",
+      "n=148, k=8",
+      "n=147, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0082",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数269の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=269, k=6",
+      "n=269, k=7",
+      "n=268, k=6",
+      "n=270, k=6",
+      "n=269, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0083",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数291の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=291, k=5",
+      "n=291, k=6",
+      "n=290, k=5",
+      "n=292, k=5",
+      "n=291, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0084",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数35、説明変数数8、決定係数R²=0.974のとき、調整済み決定係数は？",
+    "options": [
+      "0.9663",
+      "0.9742",
+      "0.8768",
+      "1.0716",
+      "0.0258"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0085",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数42の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=42, k=7",
+      "n=42, k=8",
+      "n=41, k=7",
+      "n=43, k=7",
+      "n=42, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0086",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数81、説明変数数6、決定係数R²=0.361のとき、調整済み決定係数は？",
+    "options": [
+      "0.3096",
+      "0.3614",
+      "0.3253",
+      "0.3975",
+      "0.6386"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0087",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数266の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=266, k=3",
+      "n=266, k=4",
+      "n=265, k=3",
+      "n=267, k=3",
+      "n=266, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0088",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数167の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=167, k=3",
+      "n=167, k=4",
+      "n=166, k=3",
+      "n=168, k=3",
+      "n=167, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0089",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数88、説明変数数7、決定係数R²=0.741のとき、調整済み決定係数は？",
+    "options": [
+      "0.7183",
+      "0.7409",
+      "0.6668",
+      "0.8150",
+      "0.2591"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0090",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数82の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=82, k=8",
+      "n=82, k=9",
+      "n=81, k=8",
+      "n=83, k=8",
+      "n=82, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0091",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数93、説明変数数7、決定係数R²=0.755のとき、調整済み決定係数は？",
+    "options": [
+      "0.7345",
+      "0.7547",
+      "0.6792",
+      "0.8302",
+      "0.2453"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0092",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数71、説明変数数3、決定係数R²=0.766のとき、調整済み決定係数は？",
+    "options": [
+      "0.7556",
+      "0.7661",
+      "0.6895",
+      "0.8427",
+      "0.2339"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0093",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数214、説明変数数3、決定係数R²=0.891のとき、調整済み決定係数は？",
+    "options": [
+      "0.8890",
+      "0.8906",
+      "0.8015",
+      "0.9796",
+      "0.1094"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0094",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数204の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=204, k=7",
+      "n=204, k=8",
+      "n=203, k=7",
+      "n=205, k=7",
+      "n=204, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0095",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数180の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=180, k=5",
+      "n=180, k=6",
+      "n=179, k=5",
+      "n=181, k=5",
+      "n=180, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0096",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数68の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=68, k=8",
+      "n=68, k=9",
+      "n=67, k=8",
+      "n=69, k=8",
+      "n=68, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0097",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数140、説明変数数3、決定係数R²=0.602のとき、調整済み決定係数は？",
+    "options": [
+      "0.5936",
+      "0.6024",
+      "0.5421",
+      "0.6626",
+      "0.3976"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0098",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数161の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=161, k=2",
+      "n=161, k=3",
+      "n=160, k=2",
+      "n=162, k=2",
+      "n=161, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0099",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数91、説明変数数6、決定係数R²=0.813のとき、調整済み決定係数は？",
+    "options": [
+      "0.7998",
+      "0.8132",
+      "0.7319",
+      "0.8945",
+      "0.1868"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0100",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数237、説明変数数6、決定係数R²=0.569のとき、調整済み決定係数は？",
+    "options": [
+      "0.5574",
+      "0.5687",
+      "0.5118",
+      "0.6255",
+      "0.4313"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0101",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数79、説明変数数5、決定係数R²=0.544のとき、調整済み決定係数は？",
+    "options": [
+      "0.5126",
+      "0.5439",
+      "0.4895",
+      "0.5982",
+      "0.4561"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0102",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数108の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=108, k=6",
+      "n=108, k=7",
+      "n=107, k=6",
+      "n=109, k=6",
+      "n=108, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0103",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数271、説明変数数6、決定係数R²=0.730のとき、調整済み決定係数は？",
+    "options": [
+      "0.7237",
+      "0.7298",
+      "0.6568",
+      "0.8028",
+      "0.2702"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0104",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数127の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=127, k=6",
+      "n=127, k=7",
+      "n=126, k=6",
+      "n=128, k=6",
+      "n=127, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0105",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数206の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=206, k=6",
+      "n=206, k=7",
+      "n=205, k=6",
+      "n=207, k=6",
+      "n=206, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0106",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数106、説明変数数7、決定係数R²=0.599のとき、調整済み決定係数は？",
+    "options": [
+      "0.5703",
+      "0.5990",
+      "0.5391",
+      "0.6589",
+      "0.4010"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0107",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数65の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=65, k=7",
+      "n=65, k=8",
+      "n=64, k=7",
+      "n=66, k=7",
+      "n=65, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0108",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数169の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=169, k=4",
+      "n=169, k=5",
+      "n=168, k=4",
+      "n=170, k=4",
+      "n=169, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0109",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数119の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=119, k=2",
+      "n=119, k=3",
+      "n=118, k=2",
+      "n=120, k=2",
+      "n=119, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0110",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数263、説明変数数3、決定係数R²=0.356のとき、調整済み決定係数は？",
+    "options": [
+      "0.3483",
+      "0.3558",
+      "0.3202",
+      "0.3913",
+      "0.6442"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0111",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数298、説明変数数7、決定係数R²=0.755のとき、調整済み決定係数は？",
+    "options": [
+      "0.7489",
+      "0.7548",
+      "0.6793",
+      "0.8303",
+      "0.2452"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0112",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数161、説明変数数2、決定係数R²=0.584のとき、調整済み決定係数は？",
+    "options": [
+      "0.5786",
+      "0.5839",
+      "0.5255",
+      "0.6423",
+      "0.4161"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0113",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数235、説明変数数2、決定係数R²=0.729のとき、調整済み決定係数は？",
+    "options": [
+      "0.7263",
+      "0.7287",
+      "0.6558",
+      "0.8016",
+      "0.2713"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0114",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数206、説明変数数4、決定係数R²=0.744のとき、調整済み決定係数は？",
+    "options": [
+      "0.7392",
+      "0.7443",
+      "0.6698",
+      "0.8187",
+      "0.2557"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0115",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数115の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=115, k=4",
+      "n=115, k=5",
+      "n=114, k=4",
+      "n=116, k=4",
+      "n=115, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0116",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数5、サンプル数49の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=49, k=5",
+      "n=49, k=6",
+      "n=48, k=5",
+      "n=50, k=5",
+      "n=49, k=4"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0117",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数100、説明変数数5、決定係数R²=0.557のとき、調整済み決定係数は？",
+    "options": [
+      "0.5330",
+      "0.5566",
+      "0.5009",
+      "0.6123",
+      "0.4434"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0118",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数33の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=33, k=8",
+      "n=33, k=9",
+      "n=32, k=8",
+      "n=34, k=8",
+      "n=33, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0119",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数234の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=234, k=3",
+      "n=234, k=4",
+      "n=233, k=3",
+      "n=235, k=3",
+      "n=234, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0120",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数119の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=119, k=6",
+      "n=119, k=7",
+      "n=118, k=6",
+      "n=120, k=6",
+      "n=119, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0121",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数231、説明変数数8、決定係数R²=0.360のとき、調整済み決定係数は？",
+    "options": [
+      "0.3371",
+      "0.3602",
+      "0.3241",
+      "0.3962",
+      "0.6398"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0122",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数114、説明変数数8、決定係数R²=0.636のとき、調整済み決定係数は？",
+    "options": [
+      "0.6079",
+      "0.6357",
+      "0.5721",
+      "0.6993",
+      "0.3643"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0123",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数111の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=111, k=8",
+      "n=111, k=9",
+      "n=110, k=8",
+      "n=112, k=8",
+      "n=111, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0124",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数284の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=284, k=7",
+      "n=284, k=8",
+      "n=283, k=7",
+      "n=285, k=7",
+      "n=284, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0125",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数8、サンプル数95の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=95, k=8",
+      "n=95, k=9",
+      "n=94, k=8",
+      "n=96, k=8",
+      "n=95, k=7"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0126",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数204の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=204, k=4",
+      "n=204, k=5",
+      "n=203, k=4",
+      "n=205, k=4",
+      "n=204, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0127",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数242、説明変数数8、決定係数R²=0.450のとき、調整済み決定係数は？",
+    "options": [
+      "0.4311",
+      "0.4500",
+      "0.4050",
+      "0.4950",
+      "0.5500"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0128",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数147の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=147, k=6",
+      "n=147, k=7",
+      "n=146, k=6",
+      "n=148, k=6",
+      "n=147, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0129",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数66、説明変数数2、決定係数R²=0.338のとき、調整済み決定係数は？",
+    "options": [
+      "0.3174",
+      "0.3384",
+      "0.3045",
+      "0.3722",
+      "0.6616"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0130",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数95の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=95, k=2",
+      "n=95, k=3",
+      "n=94, k=2",
+      "n=96, k=2",
+      "n=95, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0131",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数89の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=89, k=2",
+      "n=89, k=3",
+      "n=88, k=2",
+      "n=90, k=2",
+      "n=89, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0132",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数32の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=32, k=4",
+      "n=32, k=5",
+      "n=31, k=4",
+      "n=33, k=4",
+      "n=32, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0133",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数280、説明変数数8、決定係数R²=0.639のとき、調整済み決定係数は？",
+    "options": [
+      "0.6279",
+      "0.6386",
+      "0.5747",
+      "0.7024",
+      "0.3614"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0134",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数294、説明変数数8、決定係数R²=0.576のとき、調整済み決定係数は？",
+    "options": [
+      "0.5642",
+      "0.5761",
+      "0.5185",
+      "0.6337",
+      "0.4239"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0135",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数45の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=45, k=6",
+      "n=45, k=7",
+      "n=44, k=6",
+      "n=46, k=6",
+      "n=45, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0136",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数38、説明変数数4、決定係数R²=0.568のとき、調整済み決定係数は？",
+    "options": [
+      "0.5154",
+      "0.5678",
+      "0.5110",
+      "0.6246",
+      "0.4322"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0137",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数3、サンプル数56の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=56, k=3",
+      "n=56, k=4",
+      "n=55, k=3",
+      "n=57, k=3",
+      "n=56, k=2"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0138",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数204、説明変数数5、決定係数R²=0.634のとき、調整済み決定係数は？",
+    "options": [
+      "0.6249",
+      "0.6342",
+      "0.5708",
+      "0.6976",
+      "0.3658"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0139",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数68、説明変数数3、決定係数R²=0.404のとき、調整済み決定係数は？",
+    "options": [
+      "0.3761",
+      "0.4040",
+      "0.3636",
+      "0.4444",
+      "0.5960"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0140",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数46、説明変数数8、決定係数R²=0.977のとき、調整済み決定係数は？",
+    "options": [
+      "0.9719",
+      "0.9769",
+      "0.8792",
+      "1.0746",
+      "0.0231"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0141",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数186、説明変数数3、決定係数R²=0.400のとき、調整済み決定係数は？",
+    "options": [
+      "0.3898",
+      "0.3997",
+      "0.3598",
+      "0.4397",
+      "0.6003"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0142",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数144、説明変数数8、決定係数R²=0.306のとき、調整済み決定係数は？",
+    "options": [
+      "0.2648",
+      "0.3059",
+      "0.2753",
+      "0.3365",
+      "0.6941"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0143",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数225、説明変数数2、決定係数R²=0.520のとき、調整済み決定係数は？",
+    "options": [
+      "0.5155",
+      "0.5199",
+      "0.4679",
+      "0.5719",
+      "0.4801"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0144",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数205の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=205, k=4",
+      "n=205, k=5",
+      "n=204, k=4",
+      "n=206, k=4",
+      "n=205, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0145",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数156、説明変数数6、決定係数R²=0.311のとき、調整済み決定係数は？",
+    "options": [
+      "0.2828",
+      "0.3105",
+      "0.2795",
+      "0.3416",
+      "0.6895"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0146",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数7、サンプル数226の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=226, k=7",
+      "n=226, k=8",
+      "n=225, k=7",
+      "n=227, k=7",
+      "n=226, k=6"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0147",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数4、サンプル数274の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=274, k=4",
+      "n=274, k=5",
+      "n=273, k=4",
+      "n=275, k=4",
+      "n=274, k=3"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0148",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析において、サンプル数73、説明変数数8、決定係数R²=0.870のとき、調整済み決定係数は？",
+    "options": [
+      "0.8539",
+      "0.8702",
+      "0.7831",
+      "0.9572",
+      "0.1298"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0149",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数2、サンプル数200の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=200, k=2",
+      "n=200, k=3",
+      "n=199, k=2",
+      "n=201, k=2",
+      "n=200, k=1"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
+  },
+  {
+    "problem_id": "GP1_reg_0150",
+    "grade": "pre1",
+    "category": "regression_advanced",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "重回帰分析で、説明変数数6、サンプル数63の場合、自由度調整済み決定係数の計算に必要な値は？",
+    "options": [
+      "n=63, k=6",
+      "n=63, k=7",
+      "n=62, k=6",
+      "n=64, k=6",
+      "n=63, k=5"
+    ],
+    "correct_answer": 0,
+    "explanation": "調整済み決定係数 = 1 - (1-R²)(n-1)/(n-k-1)",
+    "formulas_used": [
+      "adjusted_r_squared"
+    ],
+    "tags": [
+      "重回帰分析",
+      "決定係数"
+    ]
   }
 ]

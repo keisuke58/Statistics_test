@@ -373,5 +373,3005 @@
       "時系列解析",
       "自己相関"
     ]
+  },
+  {
+    "problem_id": "GP1_ts_0001",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0002",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0003",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0004",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0005",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0006",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0007",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0008",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0009",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0010",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0011",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0012",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0013",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0014",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0015",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0016",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0017",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0018",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0019",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0020",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0021",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0022",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0023",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0024",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0025",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0026",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0027",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0028",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0029",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0030",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0031",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0032",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0033",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0034",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0035",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0036",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0037",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0038",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0039",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0040",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0041",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0042",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0043",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0044",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0045",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0046",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0047",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0048",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0049",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0050",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0051",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0052",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0053",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0054",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0055",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0056",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0057",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0058",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0059",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0060",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0061",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0062",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0063",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0064",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0065",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0066",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0067",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0068",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0069",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0070",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0071",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0072",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0073",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0074",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0075",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0076",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0077",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0078",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0079",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0080",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0081",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0082",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0083",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0084",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0085",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0086",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0087",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0088",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0089",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0090",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0091",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0092",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0093",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0094",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0095",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0096",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0097",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0098",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0099",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0100",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0101",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0102",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0103",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0104",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0105",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0106",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0107",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0108",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0109",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0110",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0111",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0112",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0113",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0114",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0115",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0116",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "AR(1)モデル y_t = 0.7y_{t-1} + ε_t において、定常性の条件は？",
+    "options": [
+      "|0.7| < 1 より定常",
+      "|0.7| > 1 より非定常",
+      "0.7 = 1 より単位根",
+      "常に定常",
+      "常に非定常"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0117",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0118",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0119",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "移動平均MA(1)モデル y_t = ε_t + 0.5ε_{t-1} の分散は？",
+    "options": [
+      "σ²(1 + 0.5²) = 1.25σ²",
+      "σ²",
+      "0.5σ²",
+      "1.5σ²",
+      "2σ²"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
+  },
+  {
+    "problem_id": "GP1_ts_0120",
+    "grade": "pre1",
+    "category": "time_series",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "時系列データの自己相関関数（ACF）がラグ1で0.8、ラグ2で0.6のとき、この時系列の特徴は？",
+    "options": [
+      "強い正の自己相関",
+      "弱い正の自己相関",
+      "負の自己相関",
+      "自己相関なし",
+      "周期性あり"
+    ],
+    "correct_answer": 0,
+    "explanation": "時系列解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "acf",
+      "time_series"
+    ],
+    "tags": [
+      "時系列解析",
+      "自己相関"
+    ]
   }
 ]

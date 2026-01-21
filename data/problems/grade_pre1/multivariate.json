@@ -358,5 +358,3005 @@
       "多変量解析",
       "主成分分析"
     ]
+  },
+  {
+    "problem_id": "GP1_multi_0001",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数14の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "14個すべて",
+      "15個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0002",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数8のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "8",
+      "3",
+      "9"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0003",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数4のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0004",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数134、変数数14のとき、最大主成分数は？",
+    "options": [
+      "14",
+      "134",
+      "14",
+      "148",
+      "134"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0005",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数11のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "11",
+      "3",
+      "12"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0006",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数9の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "9個すべて",
+      "10個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0007",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0008",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数9のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "9",
+      "3",
+      "10"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0009",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数11の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "5個程度",
+      "11個すべて",
+      "12個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0010",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数13のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "13",
+      "3",
+      "14"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0011",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数76、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "76",
+      "6",
+      "82",
+      "76"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0012",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数3の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "1個程度",
+      "3個すべて",
+      "4個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0013",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数15のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "15",
+      "3",
+      "16"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0014",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数117、変数数5のとき、最大主成分数は？",
+    "options": [
+      "5",
+      "117",
+      "5",
+      "122",
+      "117"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0015",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数8の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "8個すべて",
+      "9個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0016",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数6の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "3個程度",
+      "6個すべて",
+      "7個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0017",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数5の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "5個すべて",
+      "6個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0018",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数4のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0019",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数5のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "3",
+      "6"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0020",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数13のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "13",
+      "3",
+      "14"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0021",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数9のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "9",
+      "3",
+      "10"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0022",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数5の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "5個すべて",
+      "6個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0023",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数134、変数数14のとき、最大主成分数は？",
+    "options": [
+      "14",
+      "134",
+      "14",
+      "148",
+      "134"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0024",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数115、変数数5のとき、最大主成分数は？",
+    "options": [
+      "5",
+      "115",
+      "5",
+      "120",
+      "115"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0025",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数10の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "5個程度",
+      "10個すべて",
+      "11個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0026",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数13のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "13",
+      "3",
+      "14"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0027",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数9の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "9個すべて",
+      "10個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0028",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数10の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "5個程度",
+      "10個すべて",
+      "11個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0029",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数13の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "6個程度",
+      "13個すべて",
+      "14個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0030",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数5の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "5個すべて",
+      "6個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0031",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0032",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数12の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "6個程度",
+      "12個すべて",
+      "13個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0033",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数6のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "3",
+      "7"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0034",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数5のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "3",
+      "6"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0035",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数215、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "215",
+      "6",
+      "221",
+      "215"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0036",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数247、変数数8のとき、最大主成分数は？",
+    "options": [
+      "8",
+      "247",
+      "8",
+      "255",
+      "247"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0037",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数12のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "12",
+      "3",
+      "13"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0038",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数178、変数数8のとき、最大主成分数は？",
+    "options": [
+      "8",
+      "178",
+      "8",
+      "186",
+      "178"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0039",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数217、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "217",
+      "6",
+      "223",
+      "217"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0040",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数4のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0041",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0042",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数13の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "6個程度",
+      "13個すべて",
+      "14個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0043",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数8のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "8",
+      "3",
+      "9"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0044",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数8のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "8",
+      "3",
+      "9"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0045",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数279、変数数10のとき、最大主成分数は？",
+    "options": [
+      "10",
+      "279",
+      "10",
+      "289",
+      "279"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0046",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数10のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "10",
+      "3",
+      "11"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0047",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数6のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "3",
+      "7"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0048",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数8の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "8個すべて",
+      "9個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0049",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数7の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "3個程度",
+      "7個すべて",
+      "8個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0050",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数3の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "1個程度",
+      "3個すべて",
+      "4個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0051",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数3のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "3",
+      "3",
+      "4"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0052",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数13のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "13",
+      "3",
+      "14"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0053",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0054",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数276、変数数4のとき、最大主成分数は？",
+    "options": [
+      "4",
+      "276",
+      "4",
+      "280",
+      "276"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0055",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数7のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "3",
+      "8"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0056",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数7の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "3個程度",
+      "7個すべて",
+      "8個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0057",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数7のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "3",
+      "8"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0058",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数113、変数数14のとき、最大主成分数は？",
+    "options": [
+      "14",
+      "113",
+      "14",
+      "127",
+      "113"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0059",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数261、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "261",
+      "9",
+      "270",
+      "261"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0060",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数3のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "3",
+      "3",
+      "4"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0061",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0062",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数144、変数数3のとき、最大主成分数は？",
+    "options": [
+      "3",
+      "144",
+      "3",
+      "147",
+      "144"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0063",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数104、変数数5のとき、最大主成分数は？",
+    "options": [
+      "5",
+      "104",
+      "5",
+      "109",
+      "104"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0064",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数112、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "112",
+      "6",
+      "118",
+      "112"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0065",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数15のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "15",
+      "3",
+      "16"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0066",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数6の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "3個程度",
+      "6個すべて",
+      "7個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0067",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数11の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "5個程度",
+      "11個すべて",
+      "12個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0068",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数203、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "203",
+      "9",
+      "212",
+      "203"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0069",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数191、変数数10のとき、最大主成分数は？",
+    "options": [
+      "10",
+      "191",
+      "10",
+      "201",
+      "191"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0070",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0071",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数203、変数数8のとき、最大主成分数は？",
+    "options": [
+      "8",
+      "203",
+      "8",
+      "211",
+      "203"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0072",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数14のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "14",
+      "3",
+      "15"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0073",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数7のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "3",
+      "8"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0074",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数13のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "13",
+      "3",
+      "14"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0075",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数15のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "15",
+      "3",
+      "16"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0076",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数7のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "3",
+      "8"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0077",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数4のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0078",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数4のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0079",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数156、変数数8のとき、最大主成分数は？",
+    "options": [
+      "8",
+      "156",
+      "8",
+      "164",
+      "156"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0080",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数10のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "10",
+      "3",
+      "11"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0081",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数10の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "5個程度",
+      "10個すべて",
+      "11個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0082",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数119、変数数4のとき、最大主成分数は？",
+    "options": [
+      "4",
+      "119",
+      "4",
+      "123",
+      "119"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0083",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数6のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "3",
+      "7"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0084",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数247、変数数10のとき、最大主成分数は？",
+    "options": [
+      "10",
+      "247",
+      "10",
+      "257",
+      "247"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0085",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数12のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "12",
+      "3",
+      "13"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0086",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数172、変数数13のとき、最大主成分数は？",
+    "options": [
+      "13",
+      "172",
+      "13",
+      "185",
+      "172"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0087",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数3の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "1個程度",
+      "3個すべて",
+      "4個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0088",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数4の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "4個すべて",
+      "5個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0089",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数51、変数数10のとき、最大主成分数は？",
+    "options": [
+      "10",
+      "51",
+      "10",
+      "61",
+      "51"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0090",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数271、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "271",
+      "6",
+      "277",
+      "271"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0091",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数3の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "1個程度",
+      "3個すべて",
+      "4個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0092",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数14の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "14個すべて",
+      "15個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0093",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数6のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "6",
+      "3",
+      "7"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0094",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数8の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "8個すべて",
+      "9個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0095",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数5の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "5個すべて",
+      "6個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0096",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数9の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "9個すべて",
+      "10個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0097",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数272、変数数8のとき、最大主成分数は？",
+    "options": [
+      "8",
+      "272",
+      "8",
+      "280",
+      "272"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0098",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数15のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "15",
+      "3",
+      "16"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0099",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数14の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "14個すべて",
+      "15個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0100",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数9のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "9",
+      "3",
+      "10"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0101",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数3の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "1個程度",
+      "3個すべて",
+      "4個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0102",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数15のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "15",
+      "3",
+      "16"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0103",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数8の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "4個程度",
+      "8個すべて",
+      "9個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0104",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数292、変数数5のとき、最大主成分数は？",
+    "options": [
+      "5",
+      "292",
+      "5",
+      "297",
+      "292"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0105",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数232、変数数12のとき、最大主成分数は？",
+    "options": [
+      "12",
+      "232",
+      "12",
+      "244",
+      "232"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0106",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数4の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "4個すべて",
+      "5個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0107",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数195、変数数9のとき、最大主成分数は？",
+    "options": [
+      "9",
+      "195",
+      "9",
+      "204",
+      "195"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0108",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数9のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "9",
+      "3",
+      "10"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0109",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数175、変数数4のとき、最大主成分数は？",
+    "options": [
+      "4",
+      "175",
+      "4",
+      "179",
+      "175"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0110",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数5の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "2個程度",
+      "5個すべて",
+      "6個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0111",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数236、変数数7のとき、最大主成分数は？",
+    "options": [
+      "7",
+      "236",
+      "7",
+      "243",
+      "236"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0112",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数15のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "15",
+      "3",
+      "16"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0113",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数7の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "3個程度",
+      "7個すべて",
+      "8個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0114",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数200、変数数6のとき、最大主成分数は？",
+    "options": [
+      "6",
+      "200",
+      "6",
+      "206",
+      "200"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0115",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数3の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "1個程度",
+      "3個すべて",
+      "4個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0116",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数4のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "3",
+      "5"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0117",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数5のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "3",
+      "6"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0118",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、累積寄与率が80%を超える主成分数を求める問題。変数数15の場合、通常は何個程度か？",
+    "options": [
+      "3個以下",
+      "7個程度",
+      "15個すべて",
+      "16個",
+      "1個のみ"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0119",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "主成分分析において、サンプル数187、変数数10のとき、最大主成分数は？",
+    "options": [
+      "10",
+      "187",
+      "10",
+      "197",
+      "187"
+    ],
+    "correct_answer": 2,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
+  },
+  {
+    "problem_id": "GP1_multi_0120",
+    "grade": "pre1",
+    "category": "multivariate",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "判別分析において、群数3、変数数11のとき、判別関数の最大数は？",
+    "options": [
+      "2",
+      "3",
+      "11",
+      "3",
+      "12"
+    ],
+    "correct_answer": 0,
+    "explanation": "多変量解析の基礎的な概念に関する問題です。",
+    "formulas_used": [
+      "pca",
+      "multivariate"
+    ],
+    "tags": [
+      "多変量解析",
+      "主成分分析"
+    ]
   }
 ]

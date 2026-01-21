@@ -238,5 +238,2405 @@
       "ベイズ統計",
       "事後確率"
     ]
+  },
+  {
+    "problem_id": "GP1_bayes_0001",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.83、尤度P(B|A)=0.82、周辺確率P(B)=0.43のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.5684",
+      "0.8284",
+      "0.8225",
+      "0.4344",
+      "0.6314"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.82 × 0.83 / 0.43 = 1.5684",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0002",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.41、尤度P(B|A)=0.73、周辺確率P(B)=0.26のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.1546",
+      "0.4064",
+      "0.7287",
+      "0.2565",
+      "0.3314"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.73 × 0.41 / 0.26 = 1.1546",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0003",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.88、尤度P(B|A)=0.51、周辺確率P(B)=0.42のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.0589",
+      "0.8789",
+      "0.5070",
+      "0.4208",
+      "0.6498"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.51 × 0.88 / 0.42 = 1.0589",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0004",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.72、尤度P(B|A)=0.58、周辺確率P(B)=0.47のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.8891",
+      "0.7221",
+      "0.5753",
+      "0.4672",
+      "0.5947"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.58 × 0.72 / 0.47 = 0.8891",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0005",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.12、尤度P(B|A)=0.82、周辺確率P(B)=0.77のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1304",
+      "0.1232",
+      "0.8158",
+      "0.7710",
+      "0.4471"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.82 × 0.12 / 0.77 = 0.1304",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0006",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.41、尤度P(B|A)=0.34、周辺確率P(B)=0.50のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2822",
+      "0.4143",
+      "0.3423",
+      "0.5027",
+      "0.4585"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.34 × 0.41 / 0.50 = 0.2822",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0007",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.44、尤度P(B|A)=0.33、周辺確率P(B)=0.36のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.4042",
+      "0.4414",
+      "0.3328",
+      "0.3634",
+      "0.4024"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.33 × 0.44 / 0.36 = 0.4042",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0008",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.26、尤度P(B|A)=0.87、周辺確率P(B)=0.76のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.3049",
+      "0.2648",
+      "0.8735",
+      "0.7587",
+      "0.5117"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.87 × 0.26 / 0.76 = 0.3049",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0009",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.58、尤度P(B|A)=0.85、周辺確率P(B)=0.80のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.6216",
+      "0.5832",
+      "0.8510",
+      "0.7985",
+      "0.6909"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.85 × 0.58 / 0.80 = 0.6216",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0010",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.34 × 0.33 / 0.35 = 0.3122",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0011",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.71 × 0.30 / 0.68 = 0.3165",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0012",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.41、尤度P(B|A)=0.81、周辺確率P(B)=0.58のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.5738",
+      "0.4114",
+      "0.8074",
+      "0.5789",
+      "0.4951"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.81 × 0.41 / 0.58 = 0.5738",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0013",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.28、尤度P(B|A)=0.57、周辺確率P(B)=0.63のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2498",
+      "0.2787",
+      "0.5662",
+      "0.6317",
+      "0.4552"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.57 × 0.28 / 0.63 = 0.2498",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0014",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.74、尤度P(B|A)=0.36、周辺確率P(B)=0.65のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.4056",
+      "0.7368",
+      "0.3555",
+      "0.6458",
+      "0.6913"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.36 × 0.74 / 0.65 = 0.4056",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0015",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.80、尤度P(B|A)=0.46、周辺確率P(B)=0.63のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.5803",
+      "0.7988",
+      "0.4583",
+      "0.6309",
+      "0.7148"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.46 × 0.80 / 0.63 = 0.5803",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0016",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.72 × 0.85 / 0.59 = 1.0430",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0017",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.35、尤度P(B|A)=0.53、周辺確率P(B)=0.69のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2689",
+      "0.3495",
+      "0.5344",
+      "0.6947",
+      "0.5221"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.53 × 0.35 / 0.69 = 0.2689",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0018",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.44、尤度P(B|A)=0.45、周辺確率P(B)=0.26のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.7828",
+      "0.4441",
+      "0.4537",
+      "0.2574",
+      "0.3507"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.45 × 0.44 / 0.26 = 0.7828",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0019",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.88 × 0.33 / 0.67 = 0.4312",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0020",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.26、尤度P(B|A)=0.48、周辺確率P(B)=0.77のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1626",
+      "0.2585",
+      "0.4843",
+      "0.7699",
+      "0.5142"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.48 × 0.26 / 0.77 = 0.1626",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0021",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.61 × 0.17 / 0.29 = 0.3626",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0022",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.30、尤度P(B|A)=0.31、周辺確率P(B)=0.40のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2333",
+      "0.2972",
+      "0.3123",
+      "0.3979",
+      "0.3475"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.31 × 0.30 / 0.40 = 0.2333",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0023",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.55 × 0.50 / 0.58 = 0.4786",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0024",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.60 × 0.41 / 0.28 = 0.8655",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0025",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.60 × 0.89 / 0.37 = 1.4497",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0026",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.85 × 0.43 / 0.48 = 0.7650",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0027",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.11、尤度P(B|A)=0.49、周辺確率P(B)=0.75のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.0711",
+      "0.1093",
+      "0.4867",
+      "0.7485",
+      "0.4289"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.49 × 0.11 / 0.75 = 0.0711",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0028",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.49、尤度P(B|A)=0.39、周辺確率P(B)=0.27のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.7200",
+      "0.4943",
+      "0.3943",
+      "0.2707",
+      "0.3825"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.39 × 0.49 / 0.27 = 0.7200",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0029",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.66 × 0.41 / 0.22 = 1.2400",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0030",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.50、尤度P(B|A)=0.34、周辺確率P(B)=0.68のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2484",
+      "0.5002",
+      "0.3354",
+      "0.6754",
+      "0.5878"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.34 × 0.50 / 0.68 = 0.2484",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0031",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.38、尤度P(B|A)=0.63、周辺確率P(B)=0.64のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.3770",
+      "0.3812",
+      "0.6334",
+      "0.6406",
+      "0.5109"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.63 × 0.38 / 0.64 = 0.3770",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0032",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.63、尤度P(B|A)=0.45、周辺確率P(B)=0.76のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.3686",
+      "0.6251",
+      "0.4508",
+      "0.7647",
+      "0.6949"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.45 × 0.63 / 0.76 = 0.3686",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0033",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.54 × 0.46 / 0.31 = 0.8109",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0034",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.71、尤度P(B|A)=0.83、周辺確率P(B)=0.73のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.8072",
+      "0.7117",
+      "0.8273",
+      "0.7295",
+      "0.7206"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.83 × 0.71 / 0.73 = 0.8072",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0035",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.33 × 0.84 / 0.30 = 0.9223",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0036",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.57、尤度P(B|A)=0.50、周辺確率P(B)=0.31のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.9025",
+      "0.5693",
+      "0.4983",
+      "0.3144",
+      "0.4419"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.50 × 0.57 / 0.31 = 0.9025",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0037",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.61、尤度P(B|A)=0.35、周辺確率P(B)=0.72のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2948",
+      "0.6070",
+      "0.3501",
+      "0.7209",
+      "0.6639"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.35 × 0.61 / 0.72 = 0.2948",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0038",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.83、尤度P(B|A)=0.56、周辺確率P(B)=0.49のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.9597",
+      "0.8311",
+      "0.5622",
+      "0.4869",
+      "0.6590"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.56 × 0.83 / 0.49 = 0.9597",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0039",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.16、尤度P(B|A)=0.56、周辺確率P(B)=0.66のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1416",
+      "0.1649",
+      "0.5631",
+      "0.6557",
+      "0.4103"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.56 × 0.16 / 0.66 = 0.1416",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0040",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.57 × 0.12 / 0.32 = 0.2181",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0041",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.52 × 0.13 / 0.78 = 0.0905",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0042",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.32 × 0.28 / 0.27 = 0.3269",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0043",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.46 × 0.70 / 0.60 = 0.5417",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0044",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.90、尤度P(B|A)=0.49、周辺確率P(B)=0.37のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.2034",
+      "0.8976",
+      "0.4936",
+      "0.3682",
+      "0.6329"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.49 × 0.90 / 0.37 = 1.2034",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0045",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.31、尤度P(B|A)=0.60、周辺確率P(B)=0.22のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.8405",
+      "0.3117",
+      "0.5953",
+      "0.2208",
+      "0.2663"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.60 × 0.31 / 0.22 = 0.8405",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0046",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.54 × 0.51 / 0.53 = 0.5192",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0047",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.70 × 0.73 / 0.61 = 0.8411",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0048",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.68 × 0.74 / 0.65 = 0.7736",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0049",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.22、尤度P(B|A)=0.47、周辺確率P(B)=0.67のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1538",
+      "0.2170",
+      "0.4738",
+      "0.6685",
+      "0.4427"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.47 × 0.22 / 0.67 = 0.1538",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0050",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.42 × 0.68 / 0.49 = 0.5798",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0051",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.21、尤度P(B|A)=0.72、周辺確率P(B)=0.54のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2838",
+      "0.2122",
+      "0.7210",
+      "0.5391",
+      "0.3756"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.72 × 0.21 / 0.54 = 0.2838",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0052",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.84、尤度P(B|A)=0.83、周辺確率P(B)=0.52のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.3395",
+      "0.8367",
+      "0.8300",
+      "0.5184",
+      "0.6775"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.83 × 0.84 / 0.52 = 1.3395",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0053",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.40 × 0.68 / 0.41 = 0.6755",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0054",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.42、尤度P(B|A)=0.64、周辺確率P(B)=0.66のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.4058",
+      "0.4172",
+      "0.6397",
+      "0.6577",
+      "0.5374"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.64 × 0.42 / 0.66 = 0.4058",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0055",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.42 × 0.42 / 0.51 = 0.3494",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0056",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.14、尤度P(B|A)=0.60、周辺確率P(B)=0.55のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1520",
+      "0.1379",
+      "0.6028",
+      "0.5468",
+      "0.3424"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.60 × 0.14 / 0.55 = 0.1520",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0057",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.50 × 0.85 / 0.70 = 0.6054",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0058",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.15、尤度P(B|A)=0.49、周辺確率P(B)=0.79のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.0916",
+      "0.1461",
+      "0.4946",
+      "0.7892",
+      "0.4676"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.49 × 0.15 / 0.79 = 0.0916",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0059",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.59 × 0.57 / 0.73 = 0.4666",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0060",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.84 × 0.62 / 0.73 = 0.7124",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0061",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.68 × 0.74 / 0.69 = 0.7249",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0062",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.71 × 0.68 / 0.59 = 0.8198",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0063",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.54 × 0.58 / 0.51 = 0.6188",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0064",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.48、尤度P(B|A)=0.60、周辺確率P(B)=0.32のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.8925",
+      "0.4791",
+      "0.5986",
+      "0.3213",
+      "0.4002"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.60 × 0.48 / 0.32 = 0.8925",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0065",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.65 × 0.66 / 0.66 = 0.6411",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0066",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.88 × 0.49 / 0.26 = 1.6554",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0067",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.58 × 0.39 / 0.30 = 0.7600",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0068",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.77 × 0.68 / 0.29 = 1.8020",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0069",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.83 × 0.23 / 0.72 = 0.2714",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0070",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.47 × 0.78 / 0.78 = 0.4685",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0071",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.44 × 0.41 / 0.25 = 0.7058",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0072",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.75、尤度P(B|A)=0.69、周辺確率P(B)=0.40のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.2951",
+      "0.7469",
+      "0.6866",
+      "0.3960",
+      "0.5714"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.69 × 0.75 / 0.40 = 1.2951",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0073",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.49、尤度P(B|A)=0.89、周辺確率P(B)=0.28のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.5220",
+      "0.4852",
+      "0.8888",
+      "0.2833",
+      "0.3842"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.89 × 0.49 / 0.28 = 1.5220",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0074",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.43 × 0.61 / 0.37 = 0.7048",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0075",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.88、尤度P(B|A)=0.50、周辺確率P(B)=0.75のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.5873",
+      "0.8827",
+      "0.5017",
+      "0.7540",
+      "0.8184"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.50 × 0.88 / 0.75 = 0.5873",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0076",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.85 × 0.46 / 0.34 = 1.1234",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0077",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.11、尤度P(B|A)=0.80、周辺確率P(B)=0.69のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1237",
+      "0.1066",
+      "0.7998",
+      "0.6890",
+      "0.3978"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.80 × 0.11 / 0.69 = 0.1237",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0078",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.73、尤度P(B|A)=0.66、周辺確率P(B)=0.21のとき、事後確率P(A|B)は？",
+    "options": [
+      "2.3308",
+      "0.7272",
+      "0.6635",
+      "0.2070",
+      "0.4671"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.66 × 0.73 / 0.21 = 2.3308",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0079",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.32、尤度P(B|A)=0.39、周辺確率P(B)=0.61のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.2022",
+      "0.3198",
+      "0.3860",
+      "0.6103",
+      "0.4651"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.39 × 0.32 / 0.61 = 0.2022",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0080",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.65 × 0.57 / 0.29 = 1.2633",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0081",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.35、尤度P(B|A)=0.58、周辺確率P(B)=0.21のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.9799",
+      "0.3456",
+      "0.5823",
+      "0.2054",
+      "0.2755"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.58 × 0.35 / 0.21 = 0.9799",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0082",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.43、尤度P(B|A)=0.53、周辺確率P(B)=0.60のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.3794",
+      "0.4272",
+      "0.5338",
+      "0.6011",
+      "0.5142"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.53 × 0.43 / 0.60 = 0.3794",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0083",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.69 × 0.38 / 0.75 = 0.3570",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0084",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.83 × 0.75 / 0.47 = 1.3183",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0085",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.38 × 0.58 / 0.21 = 1.0268",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0086",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.85 × 0.68 / 0.32 = 1.7823",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0087",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.14、尤度P(B|A)=0.50、周辺確率P(B)=0.54のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.1255",
+      "0.1369",
+      "0.4983",
+      "0.5434",
+      "0.3402"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.50 × 0.14 / 0.54 = 0.1255",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0088",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.43 × 0.87 / 0.41 = 0.9080",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0089",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.31 × 0.24 / 0.35 = 0.2181",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0090",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.59 × 0.65 / 0.60 = 0.6391",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0091",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.75 × 0.10 / 0.77 = 0.1015",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0092",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.81、尤度P(B|A)=0.62、周辺確率P(B)=0.64のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.7835",
+      "0.8116",
+      "0.6217",
+      "0.6440",
+      "0.7278"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.62 × 0.81 / 0.64 = 0.7835",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0093",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.84、尤度P(B|A)=0.71、周辺確率P(B)=0.49のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.2268",
+      "0.8438",
+      "0.7143",
+      "0.4913",
+      "0.6675"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.71 × 0.84 / 0.49 = 1.2268",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0094",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.70、尤度P(B|A)=0.58、周辺確率P(B)=0.69のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.5861",
+      "0.6997",
+      "0.5755",
+      "0.6871",
+      "0.6934"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.58 × 0.70 / 0.69 = 0.5861",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0095",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.53、尤度P(B|A)=0.80、周辺確率P(B)=0.26のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.6345",
+      "0.5261",
+      "0.8004",
+      "0.2576",
+      "0.3918"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.80 × 0.53 / 0.26 = 1.6345",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0096",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.60 × 0.80 / 0.70 = 0.6769",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0097",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.27、尤度P(B|A)=0.85、周辺確率P(B)=0.69のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.3270",
+      "0.2650",
+      "0.8530",
+      "0.6914",
+      "0.4782"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.85 × 0.27 / 0.69 = 0.3270",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0098",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズ統計における事前分布と事後分布の関係について、正しい記述は？",
+    "options": [
+      "事後分布は事前分布と尤度の積に比例する",
+      "事後分布は事前分布と独立",
+      "事後分布は尤度のみで決まる",
+      "事前分布は事後分布に影響しない",
+      "事後分布は常に正規分布"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.69 × 0.17 / 0.49 = 0.2344",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0099",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.14、尤度P(B|A)=0.82、周辺確率P(B)=0.21のとき、事後確率P(A|B)は？",
+    "options": [
+      "0.5624",
+      "0.1424",
+      "0.8173",
+      "0.2069",
+      "0.1746"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.82 × 0.14 / 0.21 = 0.5624",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
+  },
+  {
+    "problem_id": "GP1_bayes_0100",
+    "grade": "pre1",
+    "category": "bayes",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ベイズの定理において、事前確率P(A)=0.83、尤度P(B|A)=0.76、周辺確率P(B)=0.41のとき、事後確率P(A|B)は？",
+    "options": [
+      "1.5423",
+      "0.8324",
+      "0.7591",
+      "0.4097",
+      "0.6210"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(A|B) = P(B|A) × P(A) / P(B) = 0.76 × 0.83 / 0.41 = 1.5423",
+    "formulas_used": [
+      "bayes_theorem"
+    ],
+    "tags": [
+      "ベイズ統計",
+      "事後確率"
+    ]
   }
 ]
